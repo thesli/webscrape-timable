@@ -1,0 +1,7 @@
+{
+    "name":"getTimable",
+    "dependencies":{
+        "geocoder": "*",
+        "underscore": "*"
+    }
+}

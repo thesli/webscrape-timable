@@ -1,0 +1,2324 @@
+[
+  [
+    {
+      "date": "30 Nov - 1 Dec, noon (10hr)",
+      "description": "香港最大型音樂和藝術節 Clockenflap is back! 今年更首次舉辦三天的Clockenflap宣佈 Franz Ferdinand、崔...",
+      "id": "131910",
+      "isFree": 0,
+      "location": " 西九文化區 West Kowloon Cultural District",
+      "tag": "music",
+      "title": "Clockenflap 2013"
+    },
+    {
+      "date": "30 Nov - 2 Dec, 8:15pm (3hr)",
+      "description": "樂壇小教父方大同轉投新公司後立即展開新一輪世界巡迴演唱會 由威絡思娛樂與金牌大風製作...",
+      "id": "137600",
+      "isFree": 0,
+      "location": " 香港體育館 (紅館)",
+      "tag": "music",
+      "title": "方大同Soulboy Lights up世界巡迴演唱會2013 香港站"
+    },
+    {
+      "date": "29 Nov - 8 Dec",
+      "description": "一改過去 5 年遊走本港歷史建築的傳統， DETOUR 2013 將為大眾帶來更廣闊、更深入的設計藝術視...",
+      "id": "169324",
+      "isFree": 1,
+      "location": " 港島多個地方",
+      "tag": "arts",
+      "title": "DETOUR 2013「DETOUR MATTERS: 從微托邦走進社會創新」"
+    },
+    {
+      "date": "1 Dec (Sun) 5pm (7min)",
+      "description": "四個人坐在四張椅上，通過有節奏地擊掌和拍打腿部創造出一套都市部落儀式—Wooshing Machine劇...",
+      "id": "203683",
+      "isFree": 1,
+      "location": " 筲箕灣電車總站",
+      "tag": "arts",
+      "title": "Wooshing Machine劇團現場表演 [DETOUR 2013]"
+    },
+    {
+      "date": "1 Dec (Sun) 3pm (1hr)",
+      "description": "同流相信:「只要是喜歡戲劇的朋友，即使流派不同，也能殊途同歸」。劇團致力發展高度包容...",
+      "id": "160446",
+      "isFree": 1,
+      "location": " 沙田公園 露天劇場",
+      "tag": "arts",
+      "title": "《香港根源 - 原居民故事系列『神秘的圍村人』》結業演出 同流劇團"
+    },
+    {
+      "date": "1 Dec (Sun) 3pm (1hr)",
+      "description": "節目 由香港小交響樂團樂師演奏的音樂會。 舒洛夫 舒洛夫 《五首小品》弦樂四重奏 小提琴: ...",
+      "id": "164039",
+      "isFree": 1,
+      "location": " 太古坊 ArtisTree",
+      "tag": "music",
+      "title": "《悠揚室樂星期天》"
+    },
+    {
+      "date": "1 Dec (Sun) 3pm (1hr)",
+      "description": "韓國人氣偶像李鍾碩嚟啦~~ 想親近偶像就記得16/11嚟新港城中心以電子貨幣即日消費滿$1,500，...",
+      "id": "191893",
+      "isFree": 1,
+      "location": " 新港城中心 L2天幕廣場",
+      "tag": "visual",
+      "title": "新港城中心 x 李鍾碩「菠蘿油妹妹愛心FUN享暖聖誕」亮燈儀式暨簽名會"
+    },
+    {
+      "date": "1 Dec (Sun) 3pm (1hr)",
+      "description": "MegaBox X 何潤東 聖誕卡簽名會 台灣藝人何潤東憑帥氣樣貌迷倒了不少女生，而今年聖誕節，他...",
+      "id": "199481",
+      "isFree": 1,
+      "location": " MegaBox L5中庭",
+      "tag": "music",
+      "title": "MegaBox X 何潤東 聖誕卡簽名會"
+    },
+    {
+      "date": "1 Dec (Sun) 5pm (1hr)",
+      "description": "迫不及待想從勞碌的生活中放假輕鬆一下，卻苦無長假期外出旅遊？何不趁週末來趟愜意的小...",
+      "id": "193541",
+      "isFree": 0,
+      "location": " 牧羊少年咖啡．茶．酒館 一店",
+      "tag": "LOHAS",
+      "title": "Discover Hong Kong with Lomography - 牧羊少年《自遊講場》"
+    },
+    {
+      "date": "1 Dec (Sun) 4pm (2hr)",
+      "description": "Alessandro Carboni 會於「學習曲線/傳感河流和城市景觀」演出中講述他沿著亞洲城市河流的旅程...",
+      "id": "203728",
+      "isFree": 1,
+      "location": " 筲箕灣電車總站",
+      "tag": "arts",
+      "title": "學習曲線/傳感河流和城市景觀by Alessandro Carboni [DETOUR 2013]"
+    },
+    {
+      "date": "1 Dec (Sun) 5pm (2hr)",
+      "description": "數碼港、「情繫凱爾特」合唱團呈獻《凱爾特式聖誕》 Celtic Connections 為大家呈獻《凱爾特式...",
+      "id": "197783",
+      "isFree": 0,
+      "location": " 數碼港商場 全天候廣場",
+      "tag": "music",
+      "title": "《凱爾特式聖誕 A Celtic Christmas》"
+    },
+    {
+      "date": "1 Dec (Sun)",
+      "description": "捌秋壹以「蜑民」為題，舉辦一系列社區藝術活動，讓參與的市民及觀眾從另一角度了解「蜑...",
+      "id": "160467",
+      "isFree": 1,
+      "location": " 愛秩序灣社區會堂",
+      "tag": "arts",
+      "title": "《蜑家、漁港、你我講》多媒體結業演出暨展覽 捌秋壹製作"
+    },
+    {
+      "date": "1 Dec (Sun) 7:30pm (2hr)",
+      "description": "TTMHK小鼓手有事宣佈啊!! 《TTMHK西非鼓樂週年音樂會2013》11月公開發售!! TTMHK 旨在保存及傳授傳...",
+      "id": "169302",
+      "isFree": 0,
+      "location": " 上環文娛中心 劇院",
+      "tag": "music",
+      "title": "TTMHK 西非鼓樂週年音樂會2013"
+    },
+    {
+      "date": "1 Dec (Sun) 7:45pm (2hr)",
+      "description": "放假時，最愛父母帶我們到遊樂場玩耍。那裡有五光十色的摩天輪，播放著優美旋律的迴旋木...",
+      "id": "177111",
+      "isFree": 0,
+      "location": " 香港文化中心 音樂廳",
+      "tag": "music",
+      "title": "遊「樂」場  - 2013 合家歡音樂會"
+    },
+    {
+      "date": "1 Dec (Sun) 3pm (1hr 30min)",
+      "description": "由雄仔叔叔或人仔叔叔演繹說故事，並由說故事工作坊學員參與實踐分享。憑票免費入場，座...",
+      "id": "160391",
+      "isFree": 1,
+      "location": " 大埔 大明里廣場",
+      "tag": "arts",
+      "title": "《說故事社區演出》亞洲民眾戲劇節協會"
+    },
+    {
+      "date": "1 Dec (Sun) 8pm (3hr)",
+      "description": "「Yahoo 人氣大獎2013頒獎典禮」中港台韓巨星雲集，支持偶像，成就人氣大獎！ 全港唯一大型...",
+      "id": "187193",
+      "isFree": 0,
+      "location": " 香港會議展覽中心 展覽廳 5G (Hall 5G)",
+      "tag": "visual",
+      "title": "Yahoo!人氣大獎 2013 頒獎典禮"
+    },
+    {
+      "date": "1 Dec (Sun) 1:30pm (3hr 30min)",
+      "description": "有冇試過同你父母或小朋友用沙砌過咁大座堡壘呢?又有冇諗過同一大班朋友一齊堆沙堡呢?原...",
+      "id": "161839",
+      "isFree": 0,
+      "location": " 石澳泳灘",
+      "tag": "LOHAS",
+      "title": "「堆沙‧不平凡」FUN享日AYP x Award Network"
+    },
+    {
+      "date": "1 Dec (Sun) 2:30pm (3hr 30min)",
+      "description": "花式籃球表演、街頭舞蹈、DJ表演及精美禮品派發 邀請隊及嘉賓: 橫州工業、Hero、PolyU Star及Sup...",
+      "id": "202058",
+      "isFree": 1,
+      "location": " 康達徑花園 室外籃球場 (近Hotel Icon)",
+      "tag": "LOHAS",
+      "title": "Aape 3on3 街頭籃球賽"
+    },
+    {
+      "date": "1 Dec (Sun) 8am (4hr)",
+      "description": "由新鴻基地產主辦、公益金協辦的「勇闖ICC-100 – 新地公益金慈善跑2013」將於12月1 日在本港...",
+      "id": "150479",
+      "isFree": 0,
+      "location": " 環球貿易廣場 International Commerce Centre",
+      "tag": "LOHAS",
+      "title": "勇闖ICC-100 – 新地公益金慈善跑2013"
+    },
+    {
+      "date": "1 Dec (Sun) 3pm (2hr)",
+      "description": "Hayley will be appearing with the City Chamber Orchestra of Hong Kong conducted by Colin Touchin, together with the Hon...",
+      "id": "148428",
+      "isFree": 0,
+      "location": " 香港大會堂 音樂廳",
+      "tag": "music",
+      "title": "《純淨美聲 – 海莉．威斯特拉 Hayley Westenra》[開懷集]"
+    },
+    {
+      "date": "30 Nov - 1 Dec, 8pm (2hr)",
+      "description": "取材自日本一則生活奇聞 失意於生活的二人 陰差陽錯地共處城市一隅 彼時以輕狂飛哥和冷艷...",
+      "id": "183827",
+      "isFree": 0,
+      "location": " 天邊外自由劇場",
+      "tag": "arts",
+      "title": "《夕陽事兒 The Magic Hours》卓劇場"
+    },
+    {
+      "date": "28 Nov - 1 Dec",
+      "description": "_________________________________________________________ [TRANS] Collective presents [TRANS] #3.1 ____________________...",
+      "id": "185009",
+      "isFree": 0,
+      "location": " Loft Stage",
+      "tag": "arts",
+      "title": "[TRANS] #3.1 | 香港藝穗民化節 Hong Kong People's Fringe Festival 2013"
+    },
+    {
+      "date": "28 Nov - 1 Dec, 8pm (1hr 30min)",
+      "description": "三千此身 The three thousand of one 意識與潛意識共舞，蛹化自身，夜海航行 只有隨時準備與生命共...",
+      "id": "167260",
+      "isFree": 0,
+      "location": " KUC space",
+      "tag": "arts",
+      "title": "《三千此身 The three thousand of one》香港藝穗民化節2013"
+    },
+    {
+      "date": "1 Dec (Sun) 8pm (2hr)",
+      "description": "自2004年開始，由「多空間」主辦的i-舞蹈節不經不覺已來到第五屆，近年亦先後影響了台北、...",
+      "id": "207194",
+      "isFree": 0,
+      "location": " 「多空間」Y-劇場",
+      "tag": "arts",
+      "title": "《緣舞場》@i-Dance 舞蹈節 (香港) 2013"
+    },
+    {
+      "date": "1 - 2 Dec",
+      "description": "華格納一生中所閱女子無數，其中三位可說是塑造他作曲生涯的重要人物。當中兩位先後作了...",
+      "id": "133458",
+      "isFree": 0,
+      "location": " 孫中山紀念館 專題展覽廳",
+      "tag": "music",
+      "title": "《威森東克之歌 – 華格納的女人》音樂會"
+    },
+    {
+      "date": "1 Dec (Sun) 3:30pm (1hr 30min)",
+      "description": "吳曉紅古箏藝術團創立於1999年，由吳曉紅擔任音樂總監。團員包括現職古箏導師、香港演藝學...",
+      "id": "160414",
+      "isFree": 1,
+      "location": " 大埔文娛中心 演奏廳",
+      "tag": "music",
+      "title": "《箏鳴天下》巡迴音樂會 吳曉紅古箏藝術團"
+    },
+    {
+      "date": "30 Nov - 1 Dec",
+      "description": "《合上眼睛生存‧閉起眼睛生活 Live With Your Eyes Closed》 三覺 X 香港藝穗民化節 2013 我們在生存...",
+      "id": "170319",
+      "isFree": 0,
+      "location": " 24O劇場",
+      "tag": "arts",
+      "title": "《合上眼睛生存‧閉起眼睛生活 Live With Your Eyes Closed》三覺 X 藝穗民化節2013"
+    },
+    {
+      "date": "29 Nov - 1 Dec",
+      "description": "吾家7小寶part 2 《一屋女事主》- The Cute Family Part 2 「家嘈屋閉帶來歡天喜地, 針鋒相對喚醒心...",
+      "id": "162099",
+      "isFree": 0,
+      "location": " 葵青劇院 黑盒劇場",
+      "tag": "arts",
+      "title": "《一屋女事主》 吾家7小寶part2"
+    },
+    {
+      "date": "29 Nov - 1 Dec",
+      "description": "「很多人都是 30 歲就死了，75歲才埋葬。」 哩句說話係一位美國政治家本傑明・富蘭克林所講...",
+      "id": "192223",
+      "isFree": 0,
+      "location": " 小劇場工作室",
+      "tag": "arts",
+      "title": "《成人禮》Tomoto作品"
+    },
+    {
+      "date": "30 Nov - 1 Dec, 1pm (6hr)",
+      "description": "Hong Kong Really Really Free Market 一個任睇任擺任攞的「市場」 甚麼是Hong Kong Really Really Free Market(HKR...",
+      "id": "199819",
+      "isFree": 1,
+      "location": " 賽馬會創意藝術中心 JCCAC",
+      "tag": "LOHAS",
+      "title": "Hong Kong Really Really Free Market 升級版"
+    }
+  ],
+  [
+    {
+      "date": "28 Nov - 1 Dec",
+      "description": "0923+劇團改編青年作家天航代表作《書虫的少年時代》 引領當今學生反思「一張沙紙」代表甚...",
+      "id": "162023",
+      "isFree": 0,
+      "location": " 賽馬會創意藝術中心 黑盒劇場",
+      "tag": "arts",
+      "title": "《書虫的少年時代》天航同名小說改編 零玖貳叁家劇團"
+    },
+    {
+      "date": "27 Nov - 1 Dec",
+      "description": "由余翰廷編劇的一個有關黑暗與光明、對抗與相融間的故事。一個初初皈依的和尚，被控謀殺...",
+      "id": "149053",
+      "isFree": 0,
+      "location": " DG黑盒劇場 DG Black Box Theatre",
+      "tag": "arts",
+      "title": "《依‧衣》劇場工作室"
+    },
+    {
+      "date": "24 Nov - 1 Dec (every Sun) 3pm (2hr)",
+      "description": "盡爆男人喺更衣室最赤裸嘅一面！ 來到第四年的同流創意習作，適逢2013年是同流的二十週年...",
+      "id": "169823",
+      "isFree": 0,
+      "location": " 同流黑盒劇場",
+      "tag": "arts",
+      "title": "《盛男有惑 Men's Singles》同流"
+    },
+    {
+      "date": "1 Dec (Sun) 3pm (2hr)",
+      "description": "《鄧世昌的歷史故事》－新戲匠系列二， 唯有玉石俱焚 才能流芳百世 一個當代憤青的罷學故...",
+      "id": "131097",
+      "isFree": 0,
+      "location": " 上環文娛中心 香港話劇團黑盒劇場",
+      "tag": "arts",
+      "title": "《鄧世昌的歷史故事》香港話劇團"
+    },
+    {
+      "date": "30 Nov - 1 Dec, 2pm (4hr)",
+      "description": "香港首席花燈設計師鄧崇放，以桃紅色螢光筆、橙色走珠筆及秀麗筆創作出以仟計花燈作品。...",
+      "id": "159742",
+      "isFree": 1,
+      "location": " BLINK Gallery",
+      "tag": "expo",
+      "title": "「當你途經我的盛放」鄧崇放作品展"
+    },
+    {
+      "date": "28 Nov - 8 Dec (except Tue) 8pm (2hr)",
+      "description": "一套挖苦世人美醜價值觀及人性虛榮面的黑色喜劇 世上至醜男，列特，竟然不知自己有幾醜！...",
+      "id": "159639",
+      "isFree": 0,
+      "location": " 牛棚藝術村7號 前進進牛棚劇場",
+      "tag": "arts",
+      "title": "《醜男子》前進進戲劇"
+    },
+    {
+      "date": "27 Nov - 8 Dec",
+      "description": "獨一無二的劇場後花園，22位編劇蓄勢待發。 等著你來！拭目以待！ 一年一度，臥虎與藏龍大...",
+      "id": "149467",
+      "isFree": 0,
+      "location": " 牛池灣文娛中心 文娛廳",
+      "tag": "arts",
+      "title": "《劇場裏的臥虎與藏龍VIII》 新域劇團2013"
+    },
+    {
+      "date": "1 Dec (Sun) 11:30am (6hr 30min)",
+      "description": "聖誕節將至，為了與大眾一同分享喜悅，Acer特意於本週五舉行一連三日的年度開倉，超過過百...",
+      "id": "200111",
+      "isFree": 0,
+      "location": " 德福大廈 5/F 501室",
+      "tag": "jetso",
+      "title": "Acer 聖誕與眾同樂 年度開倉"
+    },
+    {
+      "date": "30 Nov - 1 Dec, 1pm (6hr)",
+      "description": "「童。手。作。樂」青年創意市集由香港小童群益會 賽馬會上環青少年綜合服務中心 及 我係...",
+      "id": "136086",
+      "isFree": 1,
+      "location": " 香港文化中心 露天廣場",
+      "tag": "expo",
+      "title": "「童。手。作。樂」青年創意市集"
+    },
+    {
+      "date": "15 Nov - 1 Dec",
+      "description": "《超能人，廢能事》取消/延期安排通知 因香港電視未獲發牌照事件所影響，《超能人廢能事...",
+      "id": "115977",
+      "isFree": 0,
+      "location": " 同流黑盒劇場",
+      "tag": "arts",
+      "title": "《超能人，廢能事》同流 (節目取消/延期)"
+    },
+    {
+      "date": "1 Dec (Sun)",
+      "description": "今年，「關懷愛滋」世界愛滋病日將以「I’M Positive」為主題，鼓勵公眾為感染者及受愛滋病...",
+      "id": "198630",
+      "isFree": 1,
+      "location": " 全球 globe",
+      "tag": "festival",
+      "title": "世界愛滋病日World Aids Day 2013"
+    },
+    {
+      "date": "1 Dec (Sun)",
+      "description": "郊野公園保育戰告急！規劃署早前提出海下、白腊及鎖羅盤三區規劃大綱圖，建議增加鄉村式...",
+      "id": "201719",
+      "isFree": 1,
+      "location": " 大浪西灣",
+      "tag": "LOHAS",
+      "title": "步行保護大浪西灣行動"
+    },
+    {
+      "date": "10 Nov - 1 Dec (every Sun) 1pm (6hr)",
+      "description": "香港旅遊發展局年度盛事「香港美酒佳餚月」，帶動了全城以美酒佳餚為主的精采節目，身為...",
+      "id": "168479",
+      "isFree": 1,
+      "location": " 赤柱廣場",
+      "tag": "music",
+      "title": "赤柱廣場國際美食音樂節"
+    },
+    {
+      "date": "28 Nov - 1 Dec, 10:30am (8hr)",
+      "description": "2012香港國際珠寶廠商展覽會假香港會議展覽中心圓滿舉行。是次展位超過800個、較去年增加超...",
+      "id": "111544",
+      "isFree": 0,
+      "location": " 香港會議展覽中心 展覽廳 1 (Hall 1)",
+      "tag": "expo",
+      "title": "香港珠寶購物節2013"
+    },
+    {
+      "date": "21 Nov - 6 Dec",
+      "description": "天象節目「勇闖太空」重溫競爭激烈的太空探險過程：從第一顆人造衛星「衛星一號」的歷史...",
+      "id": "208135",
+      "isFree": 0,
+      "location": " 香港太空館 何鴻燊天象廳",
+      "tag": "visual",
+      "title": "《勇闖太空》@太空館天象節目"
+    },
+    {
+      "date": "1 - 8 Dec (except Mon) 1pm (5hr)",
+      "description": "城市快速的轉變和充斥了無限的資訊。 在轉化迅速和不定的環境下，人們不盼望也不容易和周...",
+      "id": "183760",
+      "isFree": 1,
+      "location": " 香港樂天陶社",
+      "tag": "expo",
+      "title": "「脆弱的城市生活 The Fragility of City Living」程詩賢個人作品展覽"
+    },
+    {
+      "date": "28 Sep - 29 Dec (every Sun, Fri, Sat) 6pm (1hr)",
+      "description": "「港鐵開咪」一個專為港鐵乘客而設的資訊及消閒節目，將於9月28日 (星期六) 正式推出！乘客...",
+      "id": "145005",
+      "isFree": 1,
+      "location": " 全線港鐵車站大堂",
+      "tag": "LOHAS",
+      "title": "謝茜嘉 朱薰「港鐵開咪」"
+    },
+    {
+      "date": "29 Nov - 1 Dec, 9am (14hr)",
+      "description": "由11月29日至12月1日期間，憑會員卡購物滿$300，即享正價貨品7折, 街坊價貨品8折, 今日超抵價...",
+      "id": "202698",
+      "isFree": 1,
+      "location": " 全港 759阿信屋 分店",
+      "tag": "jetso",
+      "title": "759阿信屋 會員購物優惠"
+    },
+    {
+      "date": "30 Nov - 1 Dec, 1pm (6hr)",
+      "description": "JCCAC藝術村通過「JCCAC手作市集」，為參與的手作人提供一個銷售和互動交流的平台，並透過與...",
+      "id": "102296",
+      "isFree": 1,
+      "location": " 賽馬會創意藝術中心 JCCAC",
+      "tag": "LOHAS",
+      "title": "JCCAC 手作市集"
+    },
+    {
+      "date": "27 Nov - 1 Dec, 11am (10hr)",
+      "description": "明天就開始喇!!! 愉景新城x 三聯書店童閱同樂活動!! 節目: 「生活 ‧ 讀書 ‧ 新知」圖書專區...",
+      "id": "202064",
+      "isFree": 1,
+      "location": " 愉景新城 1/F 愉景街",
+      "tag": "expo",
+      "title": "愉景新城 x 三聯書店「童閱同樂活動」"
+    },
+    {
+      "date": "27 Nov - 1 Dec",
+      "description": "Giordano Staff Sale: 全場正價貨品半價優惠 Giordano Ladies Staff &amp; Family Sale: 40% off - 請注意各分店營業...",
+      "id": "202784",
+      "isFree": 0,
+      "location": " Giordano 全線門市",
+      "tag": "jetso",
+      "title": "Giordano Staff Sale 半價優惠"
+    },
+    {
+      "date": "27 Nov - 2 Dec, 11am (10hr)",
+      "description": "品牌: GIORDANO, GIORDANO junior, Giordano ladies, concepts one, BSX, Crocs, WENGER, RICARDO, J PULASI,等等……...",
+      "id": "202978",
+      "isFree": 0,
+      "location": " Times Square Bazaar 時代廣場展銷集",
+      "tag": "jetso",
+      "title": "GIORDANO Sale / 名牌鞋履及旅行用品特賣@時代廣場 Bazaar"
+    },
+    {
+      "date": "27 Nov - 1 Dec, 9:30am (11hr)",
+      "description": "歐美日名牌出入口秋冬潮流男女裝、童裝、高級時尚女裝、鞋履、飾物、全面低至1折傾銷!!...",
+      "id": "201192",
+      "isFree": 0,
+      "location": " 海港城 Bazaar展銷集 (九倉電訊中心5/F)",
+      "tag": "style",
+      "title": "Knitwear Bazaar Sale@海港城Bazaar"
+    },
+    {
+      "date": "30 Nov - 8 Dec",
+      "description": "六十年代邵氏明星爭位內幕，笑盡人情冷暖。 大型歌舞驚慄喜劇；華麗、懷舊、懸疑、搞笑。...",
+      "id": "142752",
+      "isFree": 0,
+      "location": " 牛池灣文娛中心 劇院",
+      "tag": "arts",
+      "title": "《長髮幽靈》牛池灣文娛中心場地伙伴計劃"
+    },
+    {
+      "date": "17 Nov 2013 - 26 Jan 2014 (every Sun) 11:30am (6hr)",
+      "description": "為推廣中西區的地區特色及促進旅遊和商貿業發展，中西區區議會11月17日起，一連三個月逢周...",
+      "id": "196215",
+      "isFree": 1,
+      "location": " 上環永樂街及摩利臣街",
+      "tag": "LOHAS",
+      "title": "秋冬上環假日行人坊 2013/2014"
+    },
+    {
+      "date": "1 - 14 Dec, 2pm (5hr)",
+      "description": "口述影像與視覺藝術的一些事 Exploring the Links between Audio Description and Visual Art 藝術家: 陳上城、...",
+      "id": "185310",
+      "isFree": 1,
+      "location": " 牛棚藝術村 12號 藝術公社",
+      "tag": "expo",
+      "title": "「聽、見、想、像」Sound Of Image"
+    },
+    {
+      "date": "1 Jan - 31 Dec, 8pm (14min)",
+      "description": "全球「最大型燈光音樂匯演」，已被列入《健力士世界紀錄》。每晚8:00，維多利亞港兩岸的建...",
+      "id": "107947",
+      "isFree": 1,
+      "location": " 維多利亞港",
+      "tag": "festival",
+      "title": "幻彩詠香江 2013 A Symphony of Lights"
+    },
+    {
+      "date": "30 Nov - 8 Dec, 10am (10hr)",
+      "description": "\"intimate .... distant\" which will be on from 1 - 8 December 2013 at Koo Ming Kown Gallery, in the Hong Kong Baptist Un...",
+      "id": "192109",
+      "isFree": 1,
+      "location": " 香港浸會大學 傳理視藝大樓 顧明均展覽廳",
+      "tag": "expo",
+      "title": "「intimate .... distant 咫尺天涯 」展覽"
+    },
+    {
+      "date": "1 - 8 Dec, 10am (10hr)",
+      "description": "The Hennessy坐落繁華的灣仔核心地帶、鄰近電車路線，是DETOUR 2013 五個主場地之一。有關設計創...",
+      "id": "203672",
+      "isFree": 1,
+      "location": " The Hennessy",
+      "tag": "expo",
+      "title": "DETOUR Pop up [DETOUR 2013]"
+    },
+    {
+      "date": "16 Nov - 31 Dec, 3am (2hr)",
+      "description": "出現日期: 今年11月中至12月尾 最佳觀賞日子: 12月26日及前後 時間: 日出之前 觀賞地點: 本港東...",
+      "id": "140341",
+      "isFree": 1,
+      "location": " 香港天空 東至東北方位",
+      "tag": "LOHAS",
+      "title": "「光科網」彗星"
+    }
+  ],
+  [
+    {
+      "date": "29 Nov - 1 Dec, 10am (10hr)",
+      "description": "位於北角油街12號的油街實現 (Oi!) 是一組經歷百年風雨的二級歷史建築，改建後成為展示本地...",
+      "id": "203697",
+      "isFree": 1,
+      "location": " 油街實現",
+      "tag": "expo",
+      "title": "白盒裝置 工作坊@油街實現 Oi!  [DETOUR 2013]"
+    },
+    {
+      "date": "29 Nov - 8 Dec, 10am (10hr)",
+      "description": "在2003年前，「綠洲藝廊」曾是一個菜市場，現在已成為一個供公眾欣賞設計、藝術和文化作品...",
+      "id": "203623",
+      "isFree": 1,
+      "location": " 中環「綠洲藝廊」(舊中環街市)",
+      "tag": "expo",
+      "title": "綠洲藝廊展覽 [DETOUR 2013]"
+    },
+    {
+      "date": "29 Nov - 8 Dec, 10am (10hr)",
+      "description": "DETOUR課室的上層大型書架排列着藝術、設計及建築類書籍，讓乘客在電車上享受閱讀時欣賞沿...",
+      "id": "203641",
+      "isFree": 1,
+      "location": " 石塘咀電車總站",
+      "tag": "expo",
+      "title": "DETOUR 課室 工作坊 [DETOUR 2013]"
+    },
+    {
+      "date": "29 Nov - 8 Dec, 10am (10hr)",
+      "description": "此棟歷史建築和其所在城市和周圍環境一起發展，在不同時期擔任著不同的角色，並以通過各...",
+      "id": "203655",
+      "isFree": 1,
+      "location": " 荷李活道前已婚警察宿舍 第四號台階",
+      "tag": "expo",
+      "title": "白盒裝置 工作坊@PMQ [DETOUR 2013]"
+    },
+    {
+      "date": "29 Nov - 8 Dec, 10am (10hr)",
+      "description": "坐落於港島東北面的筲箕灣電車總站是「DETOUR電車」路線的最後一站。電車站將基礎設施與公...",
+      "id": "203715",
+      "isFree": 1,
+      "location": " 筲箕灣電車總站",
+      "tag": "expo",
+      "title": "白盒裝置 工作坊@筲箕灣電車總站 [DETOUR 2013]"
+    },
+    {
+      "date": "1 Dec 2013 - 5 Jan 2014 (every Sun, Sat) 2:30pm (3hr 30min)",
+      "description": "踏入聖誕月，香港置地文華東方酒店 MO Bar特地與法國著名甜品店 Ladurée合作，推出期間限定下...",
+      "id": "190381",
+      "isFree": 0,
+      "location": " 香港置地文華東方酒店 MO Bar",
+      "tag": "f&b",
+      "title": "MO Bar x Ladurée Macaron 下午茶"
+    },
+    {
+      "date": "29 Nov - 1 Dec, 11am (7hr 30min)",
+      "description": "「科學園 . 細味 . 禮品薈」約30 個攤檔售賣本地設計師創意精品、由非牟利團體之會員製作的...",
+      "id": "203562",
+      "isFree": 1,
+      "location": " 香港科學園 浚湖樓地下",
+      "tag": "LOHAS",
+      "title": "「科學園 . 細味 . 禮品薈」The Festive Bazaar"
+    },
+    {
+      "date": "30 Nov - 25 Dec, 3pm (4hr 30min)",
+      "description": "時代是你的! 「香港音樂節」今天開幕！我們首次於時代廣場舉辦音樂節，把我們的露天廣場...",
+      "id": "200737",
+      "isFree": 1,
+      "location": " 時代廣場 地下 露天廣場",
+      "tag": "music",
+      "title": "「時代是你的」香港音樂節"
+    },
+    {
+      "date": "30 Nov - 22 Dec (except Mon) 1pm (6hr)",
+      "description": "視覺藝術家鄭志明(Carl)重臨適安街，為著仍熟悉的地方作一次在地(site-specific)展出，面對即將...",
+      "id": "192286",
+      "isFree": 1,
+      "location": " Part-Of Gallery",
+      "tag": "expo",
+      "title": "「傳說」鄭志明藝術沿適安街 展覽"
+    },
+    {
+      "date": "25 Apr - 31 Dec",
+      "description": "「一夜聲光，你會陪我去看嗎？」 全港最高的環球貿易廣場ICC呈獻「ICC聲光耀維港」，於大廈...",
+      "id": "109798",
+      "isFree": 1,
+      "location": " 環球貿易廣場 International Commerce Centre",
+      "tag": "travel",
+      "title": "ICC聲光耀維港"
+    },
+    {
+      "date": "15 Sep 2013 - 26 Jan 2014 (every Sun) 11am (7hr)",
+      "description": "太古地產定期舉辦多元化文化藝術活動，更曾經在糖廠街舉辦WECYCLE MART（以up-cycling為主題的手...",
+      "id": "140664",
+      "isFree": 1,
+      "location": " 太古坊 糖廠街",
+      "tag": "LOHAS",
+      "title": "港島東農墟 Island East Markets"
+    },
+    {
+      "date": "1 Jul - 30 Dec",
+      "description": "各位請準備，一艘全新設計的太空船正準備升空，負責探索太陽系各天體的最新天氣情況。太...",
+      "id": "124765",
+      "isFree": 0,
+      "location": " 香港太空館 何鴻燊天象廳",
+      "tag": "visual",
+      "title": "《太陽系風雲3D》太空館全天域電影"
+    },
+    {
+      "date": "29 Nov - 1 Dec",
+      "description": "一年一度的《adidas 街頭籃球賽2013》將於本年11月22起於灣仔修頓戶外籃球場盛大舉行。今年的...",
+      "id": "163145",
+      "isFree": 0,
+      "location": " 修頓球場 (戶外籃球場)",
+      "tag": "LOHAS",
+      "title": "adidas 街頭籃球賽2013"
+    },
+    {
+      "date": "26 Nov, 8am - 2 Dec, 8am (6d)",
+      "description": "第五十七輪 限時優惠, 限量熱賣 fanfares 震撼優惠,星期二早上8時登場 新一輪fanfares，機票優惠...",
+      "id": "200444",
+      "isFree": 0,
+      "location": " 網上",
+      "tag": "travel",
+      "title": "[機票] 國泰/港龍 fanfares 限時優惠 第五十七輪"
+    },
+    {
+      "date": "1 Nov 2013 - 30 Apr 2014",
+      "description": "我們的地球就像一部永不歇止的機器，藉太陽能驅動，孕育出生生不息的生命。 氣候是這部機...",
+      "id": "168509",
+      "isFree": 0,
+      "location": " 香港太空館 何鴻燊天象廳",
+      "tag": "visual",
+      "title": "《活力地球: 氣候解碼》 @太空館天象節目"
+    },
+    {
+      "date": "17 Nov - 1 Dec (every Sun) 1pm (6hr)",
+      "description": "孟燕的畫有各種各樣典型的中國元素，例如鮮紅背景、寬闊荷葉、燦然牡丹與雄豔鳳凰，使人...",
+      "id": "176260",
+      "isFree": 1,
+      "location": " EC Gallery",
+      "tag": "expo",
+      "title": "「幸福的平衡感 MY DEAR」孟燕個展"
+    },
+    {
+      "date": "1 - 28 Dec (every Sun, Sat) 2pm (7hr)",
+      "description": "當城市置入藝術 - 陳廣華戶外裝置展 從油街輾轉走到牛棚藝術村，陳廣華一直以都市人的生活...",
+      "id": "216663",
+      "isFree": 1,
+      "location": " 牛棚藝術村 露天空地",
+      "tag": "expo",
+      "title": "「流水帳」陳廣華個展"
+    },
+    {
+      "date": "24 Nov - 15 Dec (every Sun) 1pm (6hr)",
+      "description": "Kyoko Imazu is a Japanese artist who has resided in Melbourne since 2002. She regularly exhibits her work nationally an...",
+      "id": "192113",
+      "isFree": 1,
+      "location": " ODD ONE OUT",
+      "tag": "expo",
+      "title": "「Feathers and Fur」Kyoko Imazu Exhibition"
+    },
+    {
+      "date": "26 Nov, 12am - 2 Dec, 11:59pm (6d 23hr 59min)",
+      "description": "年度最期待の不思議戀愛物語 連奪日本2星期票房No.1 “嵐”人氣偶像松本潤x日劇天后上野樹...",
+      "id": "201137",
+      "isFree": 1,
+      "location": " Timable",
+      "tag": "jetso",
+      "title": "[Timable請睇戲] 送《寵愛情人夢》電影優先場門票"
+    },
+    {
+      "date": "28 Nov, 12am - 4 Dec, 11:59pm (6d 23hr 59min)",
+      "description": "咫尺大觀園 牽引今古眾生相 以中國名著《紅樓夢》為藍本，述說一群來自現代的十四位青年...",
+      "id": "203017",
+      "isFree": 1,
+      "location": " Timable",
+      "tag": "jetso",
+      "title": "[Timable請睇Show] 送《尋找大觀園》舞蹈表演門票"
+    },
+    {
+      "date": "25 Nov - 1 Dec",
+      "description": "開賣啦開賣啦!!! AirAsia Big Sale 開始啦!!! 最平來回連稅飛都係港幣921蚊咋! 仲唔快啲上AirAsia.com...",
+      "id": "199940",
+      "isFree": 0,
+      "location": " 網上",
+      "tag": "travel",
+      "title": "[機票] AirAsia BIG SALE 2013最終章"
+    },
+    {
+      "date": "21 Nov - 4 Dec, 10:30am (12hr)",
+      "description": "「瘋狂熱賣雙週」又嚟喇！大家喺時候出動啦﹗ 我哋3間分店已為大家準備咗十幾款搶手貨，...",
+      "id": "198616",
+      "isFree": 1,
+      "location": " 全港3間IKEA",
+      "tag": "jetso",
+      "title": "IKEA宜家瘋狂熱賣雙週"
+    },
+    {
+      "date": "30 Nov - 23 Dec, 6pm (5hr)",
+      "description": "聖誕夢飛翔 在璀璨亮麗的蒲公英下，感受滿滿的佳節祝福。這個逾15公尺高的裝置藝術「WISH」...",
+      "id": "170614",
+      "isFree": 1,
+      "location": " 中環皇后像廣場北",
+      "tag": "festival",
+      "title": "聖誕夢飛翔 @香港繽紛冬日節"
+    },
+    {
+      "date": "19 Nov - 4 Dec, 11am (11hr)",
+      "description": "「海港城‧美術館」與一畫廊合作舉辦《色‧情》—曾健勇作品展，將展出當代著名畫家曾健...",
+      "id": "183369",
+      "isFree": 1,
+      "location": " 海港城．美術館 Gallery by the Harbour",
+      "tag": "expo",
+      "title": "「色‧情 Colour &amp; Love」曾健勇作品展"
+    },
+    {
+      "date": "1 Dec 2013 - 12 Jan 2014 (every Sun, Sat) 2pm (4hr)",
+      "description": "洲際酒店 The Lobby Lounge 推出一系列時尚下午茶，包括:洲際香檳下午茶、洲際下午茶及時尚中式...",
+      "id": "232697",
+      "isFree": 0,
+      "location": " 洲際酒店 Lobby Lounge",
+      "tag": "f&b",
+      "title": "特色下午茶 @洲際酒店 Lobby Lounge"
+    },
+    {
+      "date": "25 Nov - 2 Dec",
+      "description": "馬來西亞航空年終特惠現在開賣！ 慰勞辛苦的一年，展望全新的開始！ 帶您飛往東南亞、馬...",
+      "id": "199715",
+      "isFree": 0,
+      "location": " 網上",
+      "tag": "travel",
+      "title": "[機票]馬航年終特惠促銷 @馬來西亞航空"
+    },
+    {
+      "date": "18 Nov - 3 Dec, 10am (12hr)",
+      "description": "即使係小小嘅單車舊零件都可以有佢嘅用途! 最近一班香港知名設計師就以「永續再生，創意...",
+      "id": "204004",
+      "isFree": 1,
+      "location": " K11 購物藝術館 L3 Sky Village",
+      "tag": "expo",
+      "title": "「永續再生 創意傢具: 單車上的時尚」展覽"
+    },
+    {
+      "date": "10 Nov - 1 Dec, 10am (9hr)",
+      "description": "本計劃由非牟利藝術團體「藝術到家」策劃，與「香港教育學院」 文化與創意藝術學系」聯合...",
+      "id": "168466",
+      "isFree": 1,
+      "location": " 牛棚藝術村 Cattle Depot Artist Village",
+      "tag": "expo",
+      "title": "「Tape! GOGO」膠紙壁畫展覽"
+    },
+    {
+      "date": "23 Nov 2013 - 12 Jan 2014 (every Sun, Thu to Sat) noon (7hr)",
+      "description": "香港獨立攝影展覽空間The Salt Yard將會2013年11月23日至2014年1月12日期間，展出由資深台灣攝影創...",
+      "id": "167268",
+      "isFree": 1,
+      "location": " The Salt Yard",
+      "tag": "expo",
+      "title": "「STAGE」沈昭良攝影作品展"
+    },
+    {
+      "date": "17 Nov - 1 Dec (every Sun) 11am (8hr)",
+      "description": "Thresholds: Contemporary Thai Art offers a reflective and, at times, bracing view onto the contemporary art scene of on...",
+      "id": "175224",
+      "isFree": 1,
+      "location": " Sundaram Tagore Gallery",
+      "tag": "expo",
+      "title": "「Contemporary Thai Art」Thresholds Exhibition"
+    }
+  ],
+  [
+    {
+      "date": "1 Nov - 15 Dec (except Mon) noon (6hr)",
+      "description": "本地首屈一指的獨立藝術駐留空間 Spring 工作室誠邀公眾在2013年11月1日至12月15日期間蒞臨現場...",
+      "id": "164519",
+      "isFree": 1,
+      "location": " Spring Workshop",
+      "tag": "expo",
+      "title": "「 The Social Contract」Moderation(s)"
+    },
+    {
+      "date": "25 Nov 2013 - 2 Jan 2014, 6pm (6hr)",
+      "description": "尖東聖誕燈飾日前已經亮燈，惟除了有商廈燈飾引入今年新興元素「小黃鴨」燈飾外，其餘燈...",
+      "id": "206925",
+      "isFree": 1,
+      "location": " 尖東麼地道公園 (帝國中心側)",
+      "tag": "festival",
+      "title": "尖東聖誕燈飾「小黃鴨」"
+    },
+    {
+      "date": "25 Nov, 12am - 4 Dec, 11:59pm (9d 23hr 59min)",
+      "description": "亞洲領先廉價航空公司虎航由即日起至12月4日推出半價飛優惠，飛新加坡來回連稅只需$1,051起...",
+      "id": "200720",
+      "isFree": 0,
+      "location": " 網上",
+      "tag": "travel",
+      "title": "[機票] 虎航半價飛優惠"
+    },
+    {
+      "date": "16 Nov - 20 Dec, 1pm (7hr)",
+      "description": "「Remember To Forget 2003 - 2013」門小雷新書發佈畫展，將於上環Rat's Cave舉辦。 全球率先發售門小...",
+      "id": "176069",
+      "isFree": 1,
+      "location": " Rat's Cave",
+      "tag": "expo",
+      "title": "「Remember To Forget 2003 - 2013」門小雷新書發佈畫展"
+    },
+    {
+      "date": "21 Nov - 21 Dec, 11am (8hr)",
+      "description": "德薩畫廊誠意呈獻中國當代藝術家王國鋒個人展覽「報導」。展覽由著名中國策展人黃篤策劃...",
+      "id": "192054",
+      "isFree": 1,
+      "location": " 德薩畫廊 de Sarthe Gallery",
+      "tag": "expo",
+      "title": "「報導」王國鋒首個香港個人展覽"
+    },
+    {
+      "date": "1 - 29 Dec (every Sun) 1pm (4hr)",
+      "description": "著名漆畫藝術家喬十光先生，是中國現代漆藝的開拓者和創始人之一，對漆畫藝術的傳承和發...",
+      "id": "215588",
+      "isFree": 1,
+      "location": " Zee Stone Gallery",
+      "tag": "expo",
+      "title": "「Red Leaf Season」Exhibition of paintings by Qiao Shiguang"
+    },
+    {
+      "date": "29 Nov - 28 Dec, 10:30am (8hr 30min)",
+      "description": "奧沙藝術基金主辦「給二十一世紀的練習曲」 Robert Cahen John Conomos 伍韶勁 聯合創作 音樂 許敖...",
+      "id": "199748",
+      "isFree": 1,
+      "location": " 奧沙香港 osage hong kong",
+      "tag": "expo",
+      "title": "「給二十一世紀的練習曲」展覽"
+    },
+    {
+      "date": "17 Nov - 17 Dec (except Mon) 10am (10hr)",
+      "description": "與於香港藝術中心的「第14屆國際漫畫家大會」(香港)同期舉行的展覽，展出超過三百幅漫畫作...",
+      "id": "183685",
+      "isFree": 1,
+      "location": " 動漫基地",
+      "tag": "expo",
+      "title": "國際漫畫家原畫展 @第十四屆國際漫畫家大會(香港)"
+    },
+    {
+      "date": "11 Aug - 29 Dec (every Sun) 1pm (5hr)",
+      "description": "「兩棚人」相連展延續了！這次會在一級歷史建築油麻地紅磚屋舉行，「兩棚人」得以結合創...",
+      "id": "126053",
+      "isFree": 1,
+      "location": " 油麻地戲院 紅磚屋",
+      "tag": "expo",
+      "title": "「兩棚人」戲曲文化攝影展相連展"
+    },
+    {
+      "date": "27 Nov - 9 Dec, 9am (11hr)",
+      "description": "《春之祭》 1913年5月29日，由戴雅吉烈夫率領的俄羅斯芭蕾舞團在法國巴黎香榭麗舍劇院首演...",
+      "id": "153254",
+      "isFree": 1,
+      "location": " 香港文化中心 大堂",
+      "tag": "expo",
+      "title": "「春之祭」展覽"
+    },
+    {
+      "date": "19 Nov - 13 Dec, 11am (11hr)",
+      "description": "為答謝大家支持，由今日開始不同日子去 freshtea，可以以下優惠價購買指定飲品。 如有係我地...",
+      "id": "194180",
+      "isFree": 1,
+      "location": " Happy Lemon apm,德福廣場,旺角新之城分店",
+      "tag": "jetso",
+      "title": "Happy Lemon Thanks Giving 飲品優惠"
+    },
+    {
+      "date": "1 Oct - 31 Dec, 6:30pm (3hr)",
+      "description": "豪華海鮮自助餐除了推出廣受香港人歡迎的鱈場蟹腳，這次更引入肉質鮮甜的北海道毛蟹、加...",
+      "id": "146513",
+      "isFree": 0,
+      "location": " 九龍珀麗酒店 協奏坊西餐廳",
+      "tag": "f&b",
+      "title": "九龍珀麗酒店「蟹。逅」海鮮自助晚餐"
+    },
+    {
+      "date": "12 Nov 2013 - 2 Jan 2014 (every Sun to Thu) 6pm (4hr)",
+      "description": "意大利燈飾建築巨匠首度來港延續星緣 十萬顆LED燈重塑佛羅倫斯文藝復興建築美學雛形 沙田...",
+      "id": "183402",
+      "isFree": 1,
+      "location": " 新城市廣場 7/F 空中花園",
+      "tag": "expo",
+      "title": "沙田新城市廣場「Starlight Romance 光是浪漫」聖誕裝飾"
+    },
+    {
+      "date": "1 Dec 2013 - 26 Jan 2014 (every Sun, Sat) 10am (5hr 45min)",
+      "description": "「港南講旅之漁火閃閃在南區」 360度展現漁港文化 由12月起至翌年6月底舉辦「港南講旅之漁...",
+      "id": "178352",
+      "isFree": 0,
+      "location": " 香港仔海濱公園",
+      "tag": "travel",
+      "title": "港南講旅之漁火閃閃在南區 -- 舢舨導賞遊"
+    },
+    {
+      "date": "1 Sep 2013 - 28 Feb 2014",
+      "description": "二萬年前，地球正處於一段氣候長期寒冷的冰河時期，南北半球很多地方都被幾公里厚的冰川...",
+      "id": "146171",
+      "isFree": 0,
+      "location": " 香港太空館 何鴻燊天象廳",
+      "tag": "visual",
+      "title": "《冰河巨獸》太空館全天域電影"
+    },
+    {
+      "date": "24 Nov 2013 - 1 Jan 2014, noon (8hr)",
+      "description": "今年聖誕節，新鴻基地產(新地)旗下元朗廣場特別舉行浪漫洋溢的聖誕戀戀法國之旅，首次隆...",
+      "id": "198686",
+      "isFree": 1,
+      "location": " 元朗廣場",
+      "tag": "expo",
+      "title": "元朗廣場「藍寶石王子60週年祭の聖誕戀戀法國之旅」聖誕裝飾"
+    },
+    {
+      "date": "15 Nov - 29 Dec, noon (7hr)",
+      "description": "聖誕節是愛的季節。2013年是北極熊年。趁著佳節當前，德福廣場把商場化身成一片冰天極地，...",
+      "id": "169751",
+      "isFree": 1,
+      "location": " 德福廣場 Telford Plaza",
+      "tag": "expo",
+      "title": "德福廣場「極地聖誕傳大愛」聖誕裝飾"
+    },
+    {
+      "date": "27 Nov - 31 Dec, 8pm (9hr)",
+      "description": "Tamarind Restaurant &amp; Bar presents \"Midnight Masquerade'' New Year's Eve Ball! Package includes Cocktail Snacks, Dinne...",
+      "id": "201776",
+      "isFree": 0,
+      "location": " Tamarind",
+      "tag": "f&b",
+      "title": "Midnight Masquerade New Year's Eve Ball"
+    },
+    {
+      "date": "1 Dec 2013 - 1 Jan 2014, noon (10hr)",
+      "description": "美國知名時裝設計真人騷Project Runway自2004年開始啟播，即誕生了多屆時裝設計優秀人材。今年...",
+      "id": "188397",
+      "isFree": 1,
+      "location": " 荃灣廣場 1/F中庭",
+      "tag": "expo",
+      "title": "華麗倒「誕」Project Runway決賽日及聖誕晚裝作品展"
+    },
+    {
+      "date": "30 Nov 2013 - 15 Jan 2014 (except Tue) 10am (8hr)",
+      "description": "以「城市印象@你我社區」為主題的活動是全港的「家是香港」公衆參與運動的一部分，旨在提...",
+      "id": "198583",
+      "isFree": 1,
+      "location": " 展城館 地下專題展覽區",
+      "tag": "expo",
+      "title": "「城市印象@你我社區」專題展覽"
+    },
+    {
+      "date": "1 - 31 Dec, 11:30am (10hr 30min)",
+      "description": "「社區耕種計劃」是一個以行動來直接搜集在油麻地區內各種耕種過程與成果的的社區實錄。 ...",
+      "id": "229395",
+      "isFree": 1,
+      "location": " 油麻地 KUBRICK 書店",
+      "tag": "expo",
+      "title": "「社區耕種計劃」展覽"
+    },
+    {
+      "date": "17 Nov - 22 Dec (every Sun) noon (5hr)",
+      "description": "著名攝影師彼得‧斯坦豪爾(Peter Steinhauer)個展 他於亞洲不同國家拍攝的最新一系列作品。這些...",
+      "id": "169731",
+      "isFree": 1,
+      "location": " Contemporary By Angela Li 畫廊",
+      "tag": "expo",
+      "title": "「亞洲市集」彼得‧斯坦豪爾攝影作品展"
+    },
+    {
+      "date": "30 Nov 2013 - 1 Jan 2014, noon (10hr)",
+      "description": "HomeSquare家品展 聖誕禮物新思維 若想看特別的聖誕裝飾，今個聖誕記得到沙田HomeSquare，因為你...",
+      "id": "188480",
+      "isFree": 1,
+      "location": " HomeSquare L1中庭",
+      "tag": "expo",
+      "title": "HomeSquare 聖誕家品設計展"
+    },
+    {
+      "date": "1 Dec 2013 - 2 Jan 2014, 10am (10hr)",
+      "description": "消費主義掛帥，也為了趕上潮流，在大量廣告的攻勢下我們很輕易買下很多東西，不消一刻，...",
+      "id": "215532",
+      "isFree": 1,
+      "location": " 花旗銀行廣場 高層大堂",
+      "tag": "expo",
+      "title": "「胡桃夾子再造計劃」展覽"
+    },
+    {
+      "date": "1 Dec 2013 - 2 Jan 2014, noon (10hr)",
+      "description": "聖誕節會聯想起火雞、聖誕大餐等，但原來港式麵包菠蘿油都可以與聖誕扯上關係！ 新港城中...",
+      "id": "200068",
+      "isFree": 1,
+      "location": " 新港城中心 L2天幕廣場",
+      "tag": "visual",
+      "title": "新港城中心「菠蘿油妹妹愛心FUN享暖聖誕」聖誕裝飾"
+    },
+    {
+      "date": "30 Nov 2013 - 2 Jan 2014, noon (10hr)",
+      "description": "聖誕節是分享喜悅、美饌共饗的日子，與摯愛親朋一起共進聖誕大餐固然是必備節目，大家又...",
+      "id": "199857",
+      "isFree": 1,
+      "location": " 新都城中心 2期",
+      "tag": "expo",
+      "title": "MCP新都城中心「聖誕美味奇緣」聖誕裝飾"
+    },
+    {
+      "date": "22 Nov - 16 Dec, 10am (8hr)",
+      "description": "「劉國松個展」展出現代水墨大師劉國松從70年代初至今的新作，新作包括兩組超過4米長的巨...",
+      "id": "195520",
+      "isFree": 1,
+      "location": " 漢雅軒",
+      "tag": "expo",
+      "title": "「劉國松個人展覽 」"
+    },
+    {
+      "date": "23 Nov 2013 - 1 Jan 2014, 11am (9hr)",
+      "description": "油塘大本型將於11月尾踏入1周年，同時啟動大型聖誕佈置以及多項慶祝活動，與眾同樂！ 大本...",
+      "id": "188610",
+      "isFree": 1,
+      "location": " 大本型 Domain 地下中庭",
+      "tag": "expo",
+      "title": "大本型「快樂工房」聖誕裝飾"
+    },
+    {
+      "date": "17 Nov 2013 - 1 Jan 2014, noon (8hr)",
+      "description": "聖誕節快將來臨，新鴻基地產旗下大埔超級城舉行最盛大的聖誕慶生舞會，首次隆重邀請日本...",
+      "id": "186102",
+      "isFree": 1,
+      "location": " 大埔超級城 Tai Po Mega Mall",
+      "tag": "expo",
+      "title": "大埔超級城 X 手塚治虫「藍寶石王子の閃爍聖誕王國」聖誕裝飾"
+    },
+    {
+      "date": "30 Nov - 31 Dec, 10am (12hr)",
+      "description": "由香港護鯊會(Hong Kong Shark Foundation)及肥娃工作室(Miss FAT studio)合辦的「Ocean Art Walk 2013@JCCAC藝術...",
+      "id": "194007",
+      "isFree": 1,
+      "location": " 賽馬會創意藝術中心 5/F 公共空間",
+      "tag": "expo",
+      "title": "Ocean Art Walk 2013 @JCCAC藝術節"
+    }
+  ],
+  [
+    {
+      "date": "24 Nov 2013 - 12 Jan 2014 (every Sun) 1pm (5hr)",
+      "description": "Anders Ruhwald The View from the Sides of my Nose The new exhibition by US based Danish artist, Anders Ruhwald titled,...",
+      "id": "191973",
+      "isFree": 1,
+      "location": " Galerie NeC nilsson et chiglien Hong Kong",
+      "tag": "expo",
+      "title": "「The View from the Sides of My Nose」Anders Ruhwald"
+    },
+    {
+      "date": "29 Nov - 31 Dec, 10am (12hr)",
+      "description": "一年一度的聖誕佳節即將來臨，東薈城名店倉將於2013年11月29日至12月31日期間推出以「維多利...",
+      "id": "188473",
+      "isFree": 1,
+      "location": " 東薈城名店倉 地庫1樓",
+      "tag": "expo",
+      "title": "東薈城「維多利亞夢幻聖誕頌」聖誕裝飾"
+    },
+    {
+      "date": "30 Nov 2013 - 1 Jan 2014, 10am (12hr)",
+      "description": "踏入聖誕檔期，港灣豪庭廣場邀請著名玻璃藝術家Ruby Woo創意打造聖誕玻璃之城，展出別具一...",
+      "id": "203845",
+      "isFree": 1,
+      "location": " 港灣豪庭廣場",
+      "tag": "expo",
+      "title": "港灣豪庭廣場「玻璃之城奇幻旅程」聖誕裝飾"
+    },
+    {
+      "date": "1 Dec 2013 - 2 Jan 2014, 10am (12hr)",
+      "description": "適逢2013年是梅艷芳逝世10周年，西九龍中心會由12月1日至2014年1月2日舉行一連串記念梅姐活動...",
+      "id": "192035",
+      "isFree": 1,
+      "location": " 西九龍中心 Dragon Centre",
+      "tag": "expo",
+      "title": "「STAND BY ME」梅艷芳十周年紀念展覽"
+    },
+    {
+      "date": "22 Nov 2013 - 9 Feb 2014 (every Sun, Wed to Sat) noon (7hr)",
+      "description": "Para Site 隆重呈現「大新月: 六十年代的藝術與激盪──日本、南韓、台灣」。作為一小規模的...",
+      "id": "195510",
+      "isFree": 1,
+      "location": " Para Site 藝術空間",
+      "tag": "expo",
+      "title": "「大新月: 六十年代的藝術與激盪 - 日本、南韓、台灣」展覽"
+    },
+    {
+      "date": "15 Nov - 1 Dec",
+      "description": "香港小交響樂團ArtisTree駐場計劃 與太古地產合辦超過十場免費節目！ Right Partners Real Partners 人...",
+      "id": "163990",
+      "isFree": 1,
+      "location": " 太古坊 ArtisTree",
+      "tag": "arts",
+      "title": "「Right Partners Real Partners」香港小交響樂團ArtisTree駐場計劃"
+    },
+    {
+      "date": "28 Nov - 31 Dec, 10am (12hr)",
+      "description": "發現香港的中國藝術﹣師生水墨作品展 一個以中國藝術為媒介，展出學界師生作品。在傾斜於...",
+      "id": "183468",
+      "isFree": 1,
+      "location": " 賽馬會創意藝術中心 L5公共空間",
+      "tag": "expo",
+      "title": "「發現香港的中國藝術」師生水墨作品展"
+    },
+    {
+      "date": "28 Nov - 31 Dec, 10am (12hr)",
+      "description": "丘子乎攝影教室攝影作品展 是次攝影作品展紀錄丘子乎攝影教室近年來的作品，題材包括風景...",
+      "id": "183476",
+      "isFree": 1,
+      "location": " 賽馬會創意藝術中心 L6 藍牆",
+      "tag": "expo",
+      "title": "丘子乎攝影教室攝影作品展"
+    },
+    {
+      "date": "28 Nov - 31 Dec, 10am (12hr)",
+      "description": "漂 有些人透過手機的鏡頭去接觸攝影這門藝術，有些人是希望透過手機進行拍攝而去挑戰一些...",
+      "id": "183481",
+      "isFree": 1,
+      "location": " 賽馬會創意藝術中心 L6 公共空間",
+      "tag": "expo",
+      "title": "「漂」攝影展"
+    },
+    {
+      "date": "28 Nov - 31 Dec, 10am (12hr)",
+      "description": "對倒：石對人‧人倒石 跨媒界工作者達達/ Today Boy 以「對倒: 石對人‧人倒石」為題，創作了...",
+      "id": "183487",
+      "isFree": 1,
+      "location": " 賽馬會創意藝術中心 L7 藍牆",
+      "tag": "expo",
+      "title": "「對倒: 石對人‧人倒石」藝術展"
+    },
+    {
+      "date": "28 Nov - 31 Dec, 10am (12hr)",
+      "description": "借古喻今：「利盡天下，而失其生，何益之有？人將以何者易其生？」 「引而之生者，其門也...",
+      "id": "194201",
+      "isFree": 1,
+      "location": " 賽馬會創意藝術中心 L5 藍牆",
+      "tag": "expo",
+      "title": "「閒人免進」梁玉玲"
+    },
+    {
+      "date": "28 Nov - 31 Dec, 10am (12hr)",
+      "description": "視覺藝術家鄧凝姿邀請你跟這位無名氏合拍一張照片。這位不知名人物是鄧氏眾多從香港街道...",
+      "id": "224851",
+      "isFree": 1,
+      "location": " 賽馬會創意藝術中心  L1 公共空間",
+      "tag": "expo",
+      "title": "「讓我們拍一張照吧！」街道上的人 展覽"
+    },
+    {
+      "date": "29 Nov 2013 - 1 Jan 2014, 10am (12hr)",
+      "description": "《美食風球2》 騎呢發明家與各位食物朋友與你過奇幻聖誕 今個聖誕，北角港運城與本年度聖...",
+      "id": "204015",
+      "isFree": 1,
+      "location": " 港運城 Island Place",
+      "tag": "expo",
+      "title": "港運城「聖誕鉅獻《美食風球2》與你過奇幻聖誕」聖誕裝飾"
+    },
+    {
+      "date": "29 Nov 2013 - 1 Jan 2014, 10am (12hr)",
+      "description": "同來歡度充滿愛的聖誕，以毛冷編織北極熊，聖誕鹿和聖誕樹，讓你感受溫暖白雪聖誕。 精彩...",
+      "id": "206960",
+      "isFree": 1,
+      "location": " 太古城中心 Cityplaza",
+      "tag": "expo",
+      "title": "太古城中心「溫暖白雪聖誕」聖誕裝飾"
+    },
+    {
+      "date": "15 Nov - 31 Dec, noon (9hr)",
+      "description": "聖誕老人出現於外國大屋派禮物的場景相信大家都司空見慣，但如果大家可以反過來潛入聖誕...",
+      "id": "154733",
+      "isFree": 1,
+      "location": " 荃灣廣場 1/F展覽長廊",
+      "tag": "expo",
+      "title": "荃灣廣場「奇幻倒『誕』屋」聖誕裝飾"
+    },
+    {
+      "date": "15 Nov 2013 - 1 Jan 2014, noon (9hr)",
+      "description": "大家有追宮崎駿大師的動畫嗎？而他的退休之作《風起了》，相信大家亦不會陌生。今個聖誕...",
+      "id": "183750",
+      "isFree": 1,
+      "location": " 新都會廣場 3/F天晶館",
+      "tag": "expo",
+      "title": "新都會廣場「風起了 聖誕夢之旅」聖誕裝飾"
+    },
+    {
+      "date": "27 Nov 2013 - 1 Jan 2014, 10am (12hr)",
+      "description": "今個聖誕，海港城與本地時裝設計師及插畫師Zoie Lam合作，首度舉辦其筆下ZLSIM首個立體展，將...",
+      "id": "193987",
+      "isFree": 1,
+      "location": " 海港城 海運大廈 地下kidx",
+      "tag": "expo",
+      "title": "海港城「ZLISM外星聖誕狂想曲」聖誕裝飾"
+    },
+    {
+      "date": "1 Dec 2013 - 5 Jan 2014, 10am (12hr)",
+      "description": "恒隆地產旗下的山頂廣場將於12月1日開始，展示以日本著名「親密知己」為主題的大型立體裝...",
+      "id": "188452",
+      "isFree": 1,
+      "location": " 山頂廣場 The Peak Galleria",
+      "tag": "expo",
+      "title": "山頂廣場 「白色聖誕 山頂浪漫許願廊」聖誕裝飾"
+    },
+    {
+      "date": "28 May - 31 Dec, 12:30pm (2hr)",
+      "description": "都會海逸酒店的千鶴日本料理推出「午市定食買三送一」精選套餐，提供過百款日式美饌，包...",
+      "id": "133125",
+      "isFree": 1,
+      "location": " 都會海逸酒店",
+      "tag": "f&b",
+      "title": "「午市定食買三送一」日本料理優惠"
+    },
+    {
+      "date": "26 Nov 2013 - 1 Jan 2014, 9:30am (12hr)",
+      "description": "新太陽廣場全新聖誕裝飾已經READY啦，今年以「聖誕夢幻鹿樂園」為主題，打造左高18呎的巨型...",
+      "id": "208204",
+      "isFree": 1,
+      "location": " 新太陽廣場 The Sun Arcade",
+      "tag": "expo",
+      "title": "新太陽廣場「聖誕夢幻鹿樂園」聖誕裝飾"
+    },
+    {
+      "date": "25 Nov - 26 Dec, 9am (14hr)",
+      "description": "每年聖誕節，又一城總帶給你源源不絕的濃厚節日氣氛。今年，又一城誠意邀請你一同體驗一...",
+      "id": "179431",
+      "isFree": 1,
+      "location": " 又一城 Festival Walk",
+      "tag": "expo",
+      "title": "又一城「經典‧聖誕‧又一城」聖誕裝飾"
+    },
+    {
+      "date": "1 Nov - 20 Dec, 10am (9hr)",
+      "description": "香港人集體優惠 香港人至識揀! 11、12月o黎海洋公園!香港人集體優惠，又抵又Smart! 網上訂購優...",
+      "id": "171521",
+      "isFree": 0,
+      "location": " 海洋公園 Ocean Park",
+      "tag": "jetso",
+      "title": "香港人集體優惠 @香港海洋公園"
+    },
+    {
+      "date": "22 Nov 2013 - 1 Jan 2014, 11am (11hr)",
+      "description": "太古廣場於今個聖誕佳節將化身聖誕夢幻王國，以別出心裁的盛裝為顧客締造濃濃的節日氣氛...",
+      "id": "208581",
+      "isFree": 1,
+      "location": " 太古廣場 Pacific Place",
+      "tag": "expo",
+      "title": "太古廣場「Every Christmas Tells A Story」聖誕裝飾"
+    },
+    {
+      "date": "24 Nov - 31 Dec, 10am (12hr)",
+      "description": "今個聖誕，Baby Looney Tunes首次化身 Santa babies，以一身可愛聖誕造型旋風式登陸恒基兆業八大商...",
+      "id": "177012",
+      "isFree": 1,
+      "location": " 荃灣城市中心I&II、屯門時代廣場、元朗千色廣場、沙田中心、沙田廣場、粉嶺中心、粉嶺花都廣場及粉嶺牽晴間購物廣場",
+      "tag": "expo",
+      "title": "恒基兆業商場「聖誕 Baby『賓』Fun樂園」聖誕裝飾"
+    },
+    {
+      "date": "23 Nov 2013 - 3 Jan 2014, 11am (11hr)",
+      "description": "近年大熱的潮流幾何圖案，經常出現在時裝或各式家居設計當中，一直致力網羅各個潮流品牌...",
+      "id": "179396",
+      "isFree": 1,
+      "location": " 美麗華商場 Miramar Shopping Centre",
+      "tag": "expo",
+      "title": "美麗華商場「Mira-Go-Round快樂聖誕嘉年華」聖誕裝飾"
+    },
+    {
+      "date": "1 - 31 Dec, 8am (15hr)",
+      "description": "香港藝術中心為了開拓更多展示藝術的平台，每月均會在其客用電梯放映一部短片，務求令觀...",
+      "id": "218150",
+      "isFree": 1,
+      "location": " 香港藝術中心 客用電梯",
+      "tag": "visual",
+      "title": "12月份「電梯短打」@香港藝術中心"
+    },
+    {
+      "date": "20 Oct - 15 Dec (every Sun) 1pm (5hr)",
+      "description": "大利駐香港及澳門總領事館、香港意大利領事館文化處及香港大學美術博物館將攜手呈獻意大...",
+      "id": "146776",
+      "isFree": 1,
+      "location": " 香港大學 美術博物館",
+      "tag": "expo",
+      "title": "「維納斯」波提切利 名畫展"
+    },
+    {
+      "date": "14 Nov 2013 - 1 Jan 2014, noon (10hr)",
+      "description": "來自日本的Otogicco小紅帽人見人愛，今年聖誕，大埔新達廣場特意邀請小紅帽現身，把一樓展...",
+      "id": "185277",
+      "isFree": 1,
+      "location": " Uptown Plaza 大埔新達廣場",
+      "tag": "expo",
+      "title": "新達廣場「小紅帽聖誕奇遇記」聖誕裝飾"
+    },
+    {
+      "date": "21 Nov - 31 Dec, 10am (12hr)",
+      "description": "今年聖誕，今昔的銅鑼灣在此交匯，幻化成華麗舞臺，上演一幕幕的變奏戲，讓您親歷90年的...",
+      "id": "192258",
+      "isFree": 1,
+      "location": " Hysan Place、利園及利舞臺",
+      "tag": "expo",
+      "title": "LEE GARDENS「經典舞臺 • 源自1923」聖誕裝飾"
+    },
+    {
+      "date": "22 Nov 2013 - 1 Jan 2014, 11am (12hr)",
+      "description": "俄羅斯，濃濃的冬意、多元的藝術文化……這個充滿神秘異國色彩的地方，吸引了HELLO KITTY &amp; FR...",
+      "id": "195792",
+      "isFree": 1,
+      "location": " 朗豪坊 4/F通天廣場",
+      "tag": "expo",
+      "title": "朗豪坊「Hello Kitty &amp; Friends in Russia」聖誕裝飾"
+    }
+  ],
+  [
+    {
+      "date": "18 Nov 2013 - 6 Jan 2014, noon (10hr)",
+      "description": "八十年代經典漫畫《聖闘士星矢》1985年推出後旋即風靡萬千少男少女，主角星矢與其餘四位聖...",
+      "id": "179717",
+      "isFree": 1,
+      "location": " 譽.港灣 Mikiki中庭",
+      "tag": "expo",
+      "title": "Mikiki「《聖闘士星矢》聖域神話館」聖誕裝飾"
+    },
+    {
+      "date": "15 Nov - 26 Dec, 10am (12hr)",
+      "description": "LEGO®是每個人的兒時「玩伴」，也是歷久不衰世界最受歡迎積木玩具，但可曾想過原來積木都...",
+      "id": "167588",
+      "isFree": 1,
+      "location": " 上水廣場 Landmark North",
+      "tag": "expo",
+      "title": "上水廣場「A Little Love Story:晶瑩閃爍聖誕城」聖誕裝飾"
+    },
+    {
+      "date": "15 Nov - 26 Dec, 10am (12hr)",
+      "description": "今個聖誕節，香港仔中心商場與藍精靈特別為大家準備一個冬日巴黎之旅，你不但可與精靈爸...",
+      "id": "186085",
+      "isFree": 1,
+      "location": " 香港仔中心商場",
+      "tag": "expo",
+      "title": "香港仔中心商場「藍精靈聖誕巴黎遊」聖誕裝飾"
+    },
+    {
+      "date": "20 Oct - 29 Dec (every Sun, Sat) 10am (9hr)",
+      "description": "香港文化博物館與香港版畫工作室合作顆伴項目「協同版畫創作系列」展覽，是香港版畫工作...",
+      "id": "154555",
+      "isFree": 0,
+      "location": " 香港文化博物館 1/F",
+      "tag": "expo",
+      "title": "「協同版畫創作系列」展覽"
+    },
+    {
+      "date": "21 Nov 2013 - 2 Jan 2014, 10am (12hr)",
+      "description": "中環，頻繁的商貿活動、熙來攘往的人潮、急速的生活步伐……今年聖誕，國際金融中心商場 ...",
+      "id": "192380",
+      "isFree": 1,
+      "location": " ifc mall 1/F 中庭",
+      "tag": "expo",
+      "title": "ifc商場「城市『悠』園 樂在『騎』中」聖誕裝飾"
+    },
+    {
+      "date": "7 Nov 2013 - 31 Jan 2014 (except Wed) 11am (7hr)",
+      "description": "一起來塑造心目中社區的形態 展覽部份： 城市日記urban diary: 一個追尋理想的社群 今次展覽，...",
+      "id": "219385",
+      "isFree": 1,
+      "location": " 香港故事館 (藍屋)",
+      "tag": "expo",
+      "title": "「尋找社區 somewhere we belong to」展覽"
+    },
+    {
+      "date": "11 Nov 2013 - 1 Jan 2014, noon (10hr)",
+      "description": "作為將軍澳文化音樂藝術活動集中點的港鐵商場 PopCorn，將以輕鬆幽默作品為大家送上一個真...",
+      "id": "178564",
+      "isFree": 1,
+      "location": " PopCorn",
+      "tag": "expo",
+      "title": "PopCorn「ilovedoodle聖誕愛快樂」聖誕裝飾"
+    },
+    {
+      "date": "16 Nov - 29 Dec, 10am (12hr)",
+      "description": "為慶祝一系列全新的時尚服飾及時裝配飾品牌進駐，新世紀廣場特以充滿聖誕喜悅的紅色為主...",
+      "id": "184965",
+      "isFree": 1,
+      "location": " 新世紀廣場 Grand Century Place",
+      "tag": "expo",
+      "title": "新世紀廣場「點亮聖誕 Light Up Christmas」聖誕裝飾"
+    },
+    {
+      "date": "19 Nov 2013 - 1 Jan 2014, noon (12hr)",
+      "description": "今個聖誕apm將與日本殿堂級設計大師中野史郎及本地資深舞台設計師Benfi Sum合作，把Apm打造成...",
+      "id": "192094",
+      "isFree": 1,
+      "location": " apm 大堂及大堂高層",
+      "tag": "expo",
+      "title": "Apm「Santa Bear 潮流聖誕城」聖誕裝飾"
+    },
+    {
+      "date": "20 Nov 2013 - 2 Jan 2014, 10am (12hr)",
+      "description": "由11月20日起將於旗下4座地標建築，包括置地廣塲中庭、置地歴山、置地遮打及置地太子，呈...",
+      "id": "183771",
+      "isFree": 1,
+      "location": " 置地廣場中庭 LANDMARK ATRIUM",
+      "tag": "festival",
+      "title": "置地廣塲「1個笑容 1個矜貴名字 置地廣塲 1 Smile 1 Name LANDMARK」聖誕裝飾"
+    },
+    {
+      "date": "18 Nov 2013 - 1 Jan 2014, 10am (12hr)",
+      "description": "今年聖誕，屯門市廣場、信和藝術及本地插畫家大泥 (Bigsoil) 將攜手合作，讓香港人於濃厚的...",
+      "id": "167536",
+      "isFree": 1,
+      "location": " 屯門市廣場 1期 1/F 中央廣場",
+      "tag": "expo",
+      "title": "屯門市廣場「尋最完美聖誕」聖誕裝飾"
+    },
+    {
+      "date": "18 Nov 2013 - 1 Jan 2014, 10am (12hr)",
+      "description": "為配合聖誕節的喜慶氣氛，恒隆地產特別於旗下四個商場及多個商業中心，包括：淘大商場、...",
+      "id": "185045",
+      "isFree": 1,
+      "location": " 淘大商場、康怡廣場、家樂坊、雅蘭中心",
+      "tag": "expo",
+      "title": "恒隆地產商場「童夢萬樂珠嘉年華」聖誕裝飾"
+    },
+    {
+      "date": "19 Nov 2013 - 2 Jan 2014, 10am (12hr)",
+      "description": "今個聖誕，紅遍日本的Gaspard et Lisa將會出現於置富Malls旗下的商場！ Gaspard et Lisa將會以7種不同...",
+      "id": "194050",
+      "isFree": 1,
+      "location": " 置富都會、馬鞍山廣場、置富第一城、置富嘉湖銀座、北角和富薈、火炭銀禧薈、將軍澳都會駅、荃灣麗城薈、荔枝角盈暉薈、荃灣荃薈、葵涌盈暉薈",
+      "tag": "expo",
+      "title": "置富Malls「Gaspard et Lisa」聖誕裝飾"
+    },
+    {
+      "date": "8 Nov 2013 - 1 Jan 2014, 11am (10hr)",
+      "description": "普天同慶的聖誕節將至，亦是與您最喜愛的DreamWorks Animation動畫明星一同度過一個冰天雪地的...",
+      "id": "170703",
+      "isFree": 1,
+      "location": " 荷里活廣場 1/F明星廣場",
+      "tag": "expo",
+      "title": "荷里活廣場「體驗夢工場 冬日冰之巡禮」聖誕裝飾"
+    },
+    {
+      "date": "8 Nov 2013 - 1 Jan 2014, noon (10hr)",
+      "description": "今年聖誕，港鐵旗下商場青衣城將化身為屹立英國倫敦已經有150年的「柏靈頓車站」，像人般...",
+      "id": "177085",
+      "isFree": 1,
+      "location": " 青衣城 1/F 夢幻島大堂",
+      "tag": "expo",
+      "title": "青衣城「接通聖誕『熊』到柏靈頓車站」聖誕裝飾"
+    },
+    {
+      "date": "20 Nov - 12 Dec",
+      "description": "香港法國電影節又回來了！由香港法國文化協會主辦的「第 42 屆香港法國電影節」，在康樂及...",
+      "id": "175086",
+      "isFree": 0,
+      "location": " 香港電影資料館/香港大會堂劇院/香港藝術中心/PALACE ifc/AMC Pacific Place/百老匯電影中心",
+      "tag": "visual",
+      "title": "第42屆香港法國電影節"
+    },
+    {
+      "date": "14 Nov - 6 Dec, 10am (10hr)",
+      "description": "今年，香港迪士尼樂園將聖誕歡欣無限放大，樂園內外遍佈點點樂事！早前，米奇及米妮由樂...",
+      "id": "176318",
+      "isFree": 0,
+      "location": " 香港迪士尼樂園",
+      "tag": "festival",
+      "title": "迪士尼雪亮聖誕 2013"
+    },
+    {
+      "date": "16 Nov 2013 - 1 Jan 2014, 10am (12hr)",
+      "description": "迪士尼彼思動畫的一班《反斗奇兵3》主角︰胡迪、巴斯光年、翠絲及三眼仔等將於11月16日至12...",
+      "id": "170836",
+      "isFree": 1,
+      "location": " 藍灣廣場、碧湖商場及帝庭軒購物商場",
+      "tag": "festival",
+      "title": "藍灣廣場、碧湖商場及帝庭軒購物商場「反斗奇兵3玩轉聖誕」聖誕裝飾"
+    },
+    {
+      "date": "16 Nov 2013 - 1 Jan 2014, 10am (12hr)",
+      "description": "今個聖誕節，紅磡黃埔新天地邀請了日本超人氣公仔 PEKO &amp; POKO 牛奶妹與牛奶仔來到商場，全球...",
+      "id": "188466",
+      "isFree": 1,
+      "location": " 黃埔新天地",
+      "tag": "expo",
+      "title": "黃埔新天地「牛奶妹與牛奶仔」聖誕裝飾"
+    },
+    {
+      "date": "19 Oct - 22 Dec (every Sun, Sat) 10am (10hr)",
+      "description": "他們，不敢曝露面孔，恐怕再惹凶險。他們，躲在親手繪畫的面具之下，用顏色和符號訴說身...",
+      "id": "154591",
+      "isFree": 1,
+      "location": " SoCO 269",
+      "tag": "expo",
+      "title": "「難民自畫像」香港社區組織協會 難民攝影展"
+    },
+    {
+      "date": "15 Nov 2013 - 1 Jan 2014, 10am (12hr)",
+      "description": "要過一個甜甜蜜蜜的聖誕節，今個聖誕可到世貿中心打造的糖果世界，讓你彷如置身童話世界...",
+      "id": "199651",
+      "isFree": 1,
+      "location": " 世貿中心 wtc more",
+      "tag": "expo",
+      "title": "wtc more 世貿中心「Pip&amp; Pop Xmas Sugarland」聖誕裝飾"
+    },
+    {
+      "date": "17 Nov - 17 Dec (except Mon) 10am (10hr)",
+      "description": "回顧前瞻啟發創意 「漫。人。偶。匠」香港動漫人偶創意展邀請了二十多位本地人偶設計師，...",
+      "id": "120789",
+      "isFree": 1,
+      "location": " 動漫基地",
+      "tag": "expo",
+      "title": "「漫。人。偶。匠」香港動漫人偶創意展"
+    },
+    {
+      "date": "15 Nov 2013 - 2 Jan 2014, 10am (12hr)",
+      "description": "聖誕節源於宗教歷史，但聖誕節為別人送上禮物的祝福傳統從何來？瑞典是全球聖誕氣氛最傳...",
+      "id": "177376",
+      "isFree": 1,
+      "location": " 將軍澳中心  地下中庭",
+      "tag": "expo",
+      "title": "將軍澳中心「聖誕瑞典木馬展覽」聖誕裝飾"
+    },
+    {
+      "date": "1 Nov - 30 Dec, 10am (10hr)",
+      "description": "Chocolate Rain X 新元朗中心 漫遊聖誕村 喜歡周遊列國的Chocolate Rain，於今個聖誕節會去到以全新...",
+      "id": "167467",
+      "isFree": 1,
+      "location": " 新元朗中心 New Yuen Long Plaza",
+      "tag": "expo",
+      "title": "新元朗中心「Chocolate Rain漫遊聖誕村」聖誕裝飾"
+    },
+    {
+      "date": "8 Nov 2013 - 6 Jan 2014, noon (10hr)",
+      "description": "鮮浪潮再現 K11！ 一向支持藝術發展的 K11，樂於為大眾開拓更廣闊的藝術領域。K11連續第三年...",
+      "id": "183725",
+      "isFree": 0,
+      "location": " K11 art space (B207)",
+      "tag": "expo",
+      "title": "「鮮浪潮」2013展覽"
+    },
+    {
+      "date": "6 Nov 2013 - 5 Jan 2014, noon (10hr)",
+      "description": "深受全球小朋友熱愛的「芝麻街」自1969年首播以來，獲頒發近140個艾美獎獎項，一眾主角深受...",
+      "id": "164574",
+      "isFree": 1,
+      "location": " 黃金海岸商場",
+      "tag": "expo",
+      "title": "黃金海岸「芝麻街聖誕狂歡」聖誕裝飾"
+    },
+    {
+      "date": "10 Nov - 31 Dec, 10am (12hr)",
+      "description": "今個聖誕Vcity請來不同人氣巨星與你過聖誕！ 首先商場會與廣受韓國少女追捧的人氣漫畫Magic S...",
+      "id": "183339",
+      "isFree": 1,
+      "location": " V City",
+      "tag": "expo",
+      "title": "V city「夢幻聖誕夢樂園 Xmas Vantasyland」聖誕裝飾"
+    },
+    {
+      "date": "15 Nov 2013 - 5 Jan 2014, 10am (12hr)",
+      "description": "這個普世歡騰的日子，「l881」 廣場幻化成夢幻溫馨的童話國度，神聖的小天使及繽紛的聖誕...",
+      "id": "186432",
+      "isFree": 1,
+      "location": " 1881 Heritage",
+      "tag": "expo",
+      "title": "1881 Heritage「Celestial Charm」聖誕裝飾"
+    },
+    {
+      "date": "9 Nov 2013 - 1 Jan 2014, 10am (12hr)",
+      "description": "今個聖誕節，皇室堡將以數千朵紫色玫瑰幻化成「紫醉花迷聖誕園」，更專誠邀請本地著名花...",
+      "id": "185327",
+      "isFree": 1,
+      "location": " 皇室堡 地下中庭",
+      "tag": "expo",
+      "title": "皇室堡「紫醉花迷聖誕園」聖誕裝飾"
+    },
+    {
+      "date": "8 Nov 2013 - 1 Jan 2014, 10am (12hr)",
+      "description": "MegaBox 夢幻旋轉聖誕城！ 今個聖誕，MegaBox已搖身一變幻化成「夢幻旋轉聖誕城」！L5中庭呈現...",
+      "id": "183354",
+      "isFree": 1,
+      "location": " MegaBox L5",
+      "tag": "expo",
+      "title": "MegaBox「夢幻旋轉聖誕城」聖誕裝飾"
+    }
+  ],
+  [
+    {
+      "date": "13 Nov 2013 - 6 Jan 2014, 10am (12hr)",
+      "description": "今個聖誕，K11邀請你拋開傳統的觀念，以新思維去認識聖誕：這一刻，讓思想穿越圍牆，閉上...",
+      "id": "183716",
+      "isFree": 1,
+      "location": " K11 購物藝術館",
+      "tag": "expo",
+      "title": "「K11 Art Foundation X Fake Studio」聖誕裝飾"
+    },
+    {
+      "date": "7 Nov 2013 - 1 Jan 2014, 10am (12hr)",
+      "description": "聖誕節將至，又是為家居擺放各式各樣聖誕裝飾的時候。你可曾想過以聖誕樹的始祖木製聖誕...",
+      "id": "170453",
+      "isFree": 1,
+      "location": " 圓方 Elements  金區、水區、火區 1樓",
+      "tag": "festival",
+      "title": "ELEMENTS圓方「聖誕其源 The Original Chritmas Tree」聖誕裝飾"
+    },
+    {
+      "date": "10 Nov 2013 - 4 Jan 2014, 10:30am (12hr)",
+      "description": "IKEA毛公仔助學行動 開始喇！今日起至2014年1月4日，你買一隻毛公仔，IKEA 基金會就會捐$10畀「...",
+      "id": "194374",
+      "isFree": 0,
+      "location": " 全港3間IKEA",
+      "tag": "LOHAS",
+      "title": "IKEA毛公仔助學行動"
+    },
+    {
+      "date": "5 Oct 2013 - 5 Jan 2014 (every Sun, Sat) 10am (9hr)",
+      "description": "「香港當代藝術獎」前身為「香港藝術雙年展」，自1975年開始舉辦，至今已是第17屆，為香港...",
+      "id": "149154",
+      "isFree": 0,
+      "location": " 香港藝術館 Hong Kong Museum of Arts",
+      "tag": "expo",
+      "title": "香港當代藝術獎 2012 獲獎作品展"
+    },
+    {
+      "date": "1 - 15 Dec, 9am (11hr)",
+      "description": "「粵港澳歷史建築攝影大賽優勝作品展」是「粵港澳文化資訊網」為促進粵港澳文化交流而舉...",
+      "id": "201737",
+      "isFree": 1,
+      "location": " 石塘咀公共圖書館",
+      "tag": "expo",
+      "title": "「粵港澳歷史建築攝影大賽優勝作品展」"
+    },
+    {
+      "date": "8 Nov 2013 - 3 Jan 2014, 10am (12hr)",
+      "description": "今個聖誕，Citywalk荃新天地將會變成一個充滿童趣的春田花花遊樂園，把歡樂送給荃城！由2013...",
+      "id": "168663",
+      "isFree": 1,
+      "location": " 荃新天地 Citywalk",
+      "tag": "expo",
+      "title": "荃新天地「城盼望 Santa Claus is walking in town」麥兜聖誕裝飾"
+    },
+    {
+      "date": "15 Nov - 13 Dec",
+      "description": "乘搭美國達美航空從香港飛往紐約只須$4950起(不包括稅項等收費) - 購買日期: 即日 至 2013年12...",
+      "id": "188685",
+      "isFree": 0,
+      "location": " 網上",
+      "tag": "travel",
+      "title": "[機票]美國達美航空 香港飛往紐約限時優惠"
+    },
+    {
+      "date": "28 Nov - 26 Dec",
+      "description": "獎品包括 一揭即獎 獎品 即贏大獎: - Coca-ColaR 雙人 地中海遊輪之旅 (共1份) - 太古旅遊 曼谷雙...",
+      "id": "209563",
+      "isFree": 0,
+      "location": " 香港全線麥當勞餐廳",
+      "tag": "jetso",
+      "title": "麥當勞 大富翁 「你點都會中」McDonald's Monopoly 2013"
+    },
+    {
+      "date": "2 Nov 2013 - 16 Feb 2014 (every Sun, Sat) 10am (8hr)",
+      "description": "(紐約及香港)– 亞洲協會香港中心將呈獻《越域：南亞及東南亞當代藝術展》，為古根漢美術...",
+      "id": "146830",
+      "isFree": 0,
+      "location": " 亞洲協會香港中心 Asia Society Hong Kong Center",
+      "tag": "expo",
+      "title": "「越域: 南亞及東南亞當代藝術展」古根海姆美術館瑞銀MAP全球藝術行動"
+    },
+    {
+      "date": "9 Nov 2013 - 1 Jan 2014, 10am (13hr)",
+      "description": "今個聖誕，The ONE邀請您一起共慶日本超人氣卡通角色「Rilakkuma輕鬆小熊」10歲生辰的大日子，...",
+      "id": "170473",
+      "isFree": 1,
+      "location": " The ONE UG2中庭",
+      "tag": "expo",
+      "title": "The ONE「Rilakkuma輕鬆小熊10週年の星光遊樂園」聖誕裝飾"
+    },
+    {
+      "date": "8 Nov 2013 - 5 Jan 2014, 10am (12hr)",
+      "description": "具有百年歷史的泰迪熊，陪伴了代代無數你我度過童年，給予眾多擁有者愉快回憶，意義非凡...",
+      "id": "179799",
+      "isFree": 1,
+      "location": " 中港城 高層地下大堂",
+      "tag": "expo",
+      "title": "中港城「聖誕泰迪熊城堡」聖誕裝飾"
+    },
+    {
+      "date": "23 Nov 2013 - 16 Feb 2014 (every Sun, Sat) 10am (9hr)",
+      "description": "這是蘇格蘭攝影師約翰•湯姆森 (1837－1921) 關於中國的專題首次在香港展覽。湯姆森生於愛丁...",
+      "id": "177449",
+      "isFree": 1,
+      "location": " 香港海事博物館",
+      "tag": "expo",
+      "title": "「晚清碎影: 湯姆森眼中的香港與華南」展覽"
+    },
+    {
+      "date": "8 Nov 2013 - 1 Jan 2014, 10am (13hr)",
+      "description": "海港城今年的聖誕燈飾主題為「華麗聖誕大宅」,再次與香港迪士尼樂園攜手為大家送上一個華...",
+      "id": "178950",
+      "isFree": 1,
+      "location": " 海港城 Harbour City",
+      "tag": "expo",
+      "title": "海港城「華麗聖誕大宅」聖誕裝飾"
+    },
+    {
+      "date": "9 Nov - 8 Dec",
+      "description": "這幾年台灣的紀錄片成績斐然，不只精彩好看，更充滿了人文情懷。光華因此策劃了「逆轉·...",
+      "id": "202612",
+      "isFree": 0,
+      "location": " 香港,澳門",
+      "tag": "visual",
+      "title": "「逆轉·紀錄台灣」影展"
+    },
+    {
+      "date": "7 Nov 2013 - 5 Jan 2014, 10am (12hr)",
+      "description": "LCX 舉行名為\"The Wonder of White Christmas\"的聖誕活動，展覽場地化身為一個滿載歡笑聲的滑雪村，...",
+      "id": "167206",
+      "isFree": 1,
+      "location": " 海港城 LCX",
+      "tag": "expo",
+      "title": "LCX「歡樂奇妙白色聖誕2013」聖誕裝飾"
+    },
+    {
+      "date": "3 Nov 2013 - 2 Jan 2014, 10am (12hr)",
+      "description": "日本殿堂級毛公仔「萌」主Monchhichi 不知不覺原來已「萌」足數十年，邁向40歲生日，為慶賀如...",
+      "id": "162004",
+      "isFree": 1,
+      "location": " 東港城 1/F展覽場",
+      "tag": "expo",
+      "title": "東港城「Monchhichi聖誕『萌』遊世界」聖誕裝飾"
+    },
+    {
+      "date": "16 Nov 2013 - 23 Feb 2014 (every Sun, Sat) 10am (9hr)",
+      "description": "展出約三十件以草蟲為題的畫作，展品選自香港文化博物館和香港藝術館收藏，以趙少昂的作...",
+      "id": "154579",
+      "isFree": 0,
+      "location": " 香港文化博物館 專題展覽館五",
+      "tag": "expo",
+      "title": "「草間天地 」— 趙少昂草蟲小品展"
+    },
+    {
+      "date": "1 Nov - 1 Dec",
+      "description": "今屆口號：「空間 ● 想像 ● 自由 ● 飛翔 ~ 」(Space ● Imagination ● Freedom ● Flight ~) 更多元化...",
+      "id": "145074",
+      "isFree": 0,
+      "location": " 全港不同地點",
+      "tag": "arts",
+      "title": "香港藝穗民化節 2013"
+    },
+    {
+      "date": "6 Nov 2013 - 2 Jan 2014, 8am (13hr)",
+      "description": "經典聖誕手調飲品 星巴克經典聖誕紅杯的出現，意味著普天同慶的佳節將近！今年聖誕，星巴...",
+      "id": "177037",
+      "isFree": 0,
+      "location": " 香港全線Starbucks",
+      "tag": "f&b",
+      "title": "Starbucks星巴克 經典聖誕限定飲品美食"
+    },
+    {
+      "date": "30 Nov - 31 Dec",
+      "description": "「JCCAC 藝術節」是JCCAC其中一項每年舉辦的重點活動，目的是讓更多公眾認識JCCAC及提供參與藝...",
+      "id": "206882",
+      "isFree": 1,
+      "location": " 賽馬會創意藝術中心 JCCAC",
+      "tag": "arts",
+      "title": "JCCAC 藝術節 2013"
+    },
+    {
+      "date": "26 Oct - 25 Dec, 10am (13hr)",
+      "description": "恒隆地產旗下的銅鑼灣名店坊，今年以「人人都是聖誕老人」為主題，讓各位潮人化身為聖誕...",
+      "id": "169428",
+      "isFree": 1,
+      "location": " 名店坊 Fashion Walk",
+      "tag": "LOHAS",
+      "title": "名店坊「人人都是聖誕老人 Santa’s in Style at Fashion Walk」聖誕裝飾"
+    },
+    {
+      "date": "7 Nov - 10 Dec",
+      "description": "全球電影業的拍攝及放映方式正處於歷史性巨變--- 從底片轉向數位，菲林底片的百多年歷史任...",
+      "id": "170859",
+      "isFree": 0,
+      "location": " 全線12間百老匯/ PALACE/ AMC戲院",
+      "tag": "visual",
+      "title": "「向電影菲林致敬35天」百老匯 X PALACE X AMC 展覽"
+    },
+    {
+      "date": "24 Aug 2013 - 12 Jan 2014 (every Sun, Sat) 10am (9hr)",
+      "description": "在傳統中國社會裡，家庭的安穩以至家宅的生活富足，長久以來都是平民百姓所嚮往和追求的...",
+      "id": "136611",
+      "isFree": 0,
+      "location": " 香港文化博物館 專題展覽館三&四",
+      "tag": "expo",
+      "title": "「闔家平安 ― 館藏中國傳統民間木版畫」展覽"
+    },
+    {
+      "date": "6 Nov 2013 - 31 Mar 2014 (except Tue) 10am (7hr)",
+      "description": "四季更迭，候鳥藉遷徙避過嚴冬，待氣候合適才重返故地繁衍後代。香港濕地公園由2013年11月6...",
+      "id": "184850",
+      "isFree": 0,
+      "location": " 香港濕地公園",
+      "tag": "LOHAS",
+      "title": "觀鳥節 2013/14"
+    },
+    {
+      "date": "31 Aug - 29 Dec (every Sun, Sat) 10am (9hr)",
+      "description": "香港知專設計學院與香港藝術館合作，19名職業訓練局印刷和音樂高級文憑學生，以藝術館虛...",
+      "id": "137345",
+      "isFree": 0,
+      "location": " 香港藝術館 2/F虛白齋藏畫館",
+      "tag": "expo",
+      "title": "「畫遊記—虛白齋藏畫選」電子書互動展覽"
+    },
+    {
+      "date": "20 Oct 2013 - 19 Jan 2014 (every Sun) 9am (8hr)",
+      "description": "「我的家在紫禁城」教育計劃帶來關於器物、屏山及圖書館的旅程。 繼2013年7月「＋碗」展覽...",
+      "id": "175346",
+      "isFree": 1,
+      "location": " 屏山天水圍公共圖書館 地下及3樓",
+      "tag": "expo",
+      "title": "「屏山碗碗」 展覽・導賞・教育工作坊"
+    },
+    {
+      "date": "26 Nov 2013 - 4 Jan 2014 (40d)",
+      "description": "為迎接聖誕佳節，Swarovski 將於今年為大家呈獻「Swarovski 閃亮聖誕樹」，並於香港國際機場綻...",
+      "id": "201708",
+      "isFree": 1,
+      "location": " 香港國際機場 Hong Kong International Airport",
+      "tag": "expo",
+      "title": "香港國際機場「SWAROVSKI閃亮聖誕樹」"
+    },
+    {
+      "date": "18 Oct - 5 Dec (except Mon)",
+      "description": "Eason正在城中的每個角落玩樂，你找到他了嗎？ Eason 正在城中的不同角落玩樂中，你找到他了...",
+      "id": "170806",
+      "isFree": 1,
+      "location": " 主題巴士102號及其他行走於港九的巴士",
+      "tag": "jetso",
+      "title": "KKBOX 尋找陳奕迅活動"
+    },
+    {
+      "date": "4 Nov - 15 Dec",
+      "description": "中國電影展自九七回歸在港舉辦以來，見證著內地電影市場的迅速發展。今天，中國已成為全...",
+      "id": "164555",
+      "isFree": 0,
+      "location": " 香港",
+      "tag": "visual",
+      "title": "中國電影展2013"
+    },
+    {
+      "date": "27 Sep 2013 - 12 Jan 2014 (except Mon) 10am (10hr)",
+      "description": "油街實現推出「火花！」展覽計劃系列，透過策展人、藝術家與不同社群的緊密合作、相互交...",
+      "id": "142332",
+      "isFree": 1,
+      "location": " 油街實現展覽廳 1 及 2",
+      "tag": "expo",
+      "title": "「火花！新藝術實現」油街實現"
+    }
+  ],
+  [
+    {
+      "date": "19 Nov - 31 Dec",
+      "description": "乘坐土耳其航空從香港飛往歐洲，經濟客倉機票$2,190起(未連稅) - 優惠詳情請向有關機構查詢 -...",
+      "id": "193419",
+      "isFree": 0,
+      "location": " 網上預訂",
+      "tag": "travel",
+      "title": "[機票] 香港飛歐洲優惠 [土耳其航空]"
+    },
+    {
+      "date": "15 Nov 2013 - 9 Feb 2014, 10am (12hr)",
+      "description": "全港首次！你也可以擁有全球獨一無二的對戰咭！由BANDAI及NAMCO共同協辦的「《幪面超人大戰...",
+      "id": "176116",
+      "isFree": 0,
+      "location": " 樂富廣場 UNY生活創庫 3樓NAMCO",
+      "tag": "expo",
+      "title": "《幪面超人大戰》對戰咭製作基地"
+    },
+    {
+      "date": "8 Nov 2013 - 15 Feb 2014 (every Fri, Sat) noon (13hr)",
+      "description": "著名內地藝術家艾未未將首次在香港策展，於城中文化及社交場地都爹利會館舉行Framed: 艾未...",
+      "id": "169249",
+      "isFree": 1,
+      "location": " 都爹利會館",
+      "tag": "expo",
+      "title": "Framed: 艾未未與香港藝術家展覽"
+    },
+    {
+      "date": "28 Sep 2013 - 2 Mar 2014 (every Sun, Sat) 10am (9hr)",
+      "description": "香港房屋委員會(房委會)藉今年是香港公營房屋發展60周年，與古物古蹟辦事處及香港中文大學...",
+      "id": "146164",
+      "isFree": 1,
+      "location": " 香港文物探知館 專題展覽廳",
+      "tag": "expo",
+      "title": "「說話公屋」專題展覽"
+    },
+    {
+      "date": "29 Oct - 14 Dec",
+      "description": "節目一(片長: 53mins) 2013 亞太廣告節精選 日期及時間: 29/11 7:30pm | 1/12 8:30pm | 8/12 2:30pm | 14/12 2:30p...",
+      "id": "167182",
+      "isFree": 0,
+      "location": " 香港藝術中心 agnes b.電影院",
+      "tag": "visual",
+      "title": "極品廣告片2013"
+    },
+    {
+      "date": "18 Nov 2013 - 28 Feb 2014, 10am (11hr)",
+      "description": "一首首廣為人知，年輕一代也往往曾聽過，隨口可以唱出的粵語流行曲，原來填詞的正是被譽...",
+      "id": "218923",
+      "isFree": 1,
+      "location": " 香港中央圖書館 10/F 藝術文獻閱覽室",
+      "tag": "expo",
+      "title": "「亦莊亦諧 - 記『曲帝』胡文森」展覽"
+    },
+    {
+      "date": "16 Nov 2013 - 1 Jan 2014",
+      "description": "今年聖誕，時代廣場榮幸邀請到阿根廷當代藝術家 Javier Gonzalez Burgos，為時代廣場的露天廣場...",
+      "id": "164162",
+      "isFree": 1,
+      "location": " 時代廣場 2/F樓大堂",
+      "tag": "expo",
+      "title": "時代廣場「Javier Gonzalez Burgos的趣怪聖誕 」聖誕裝飾"
+    },
+    {
+      "date": "30 Nov 2013 - 11 May 2014 (every Sun, Sat) 10am (9hr)",
+      "description": "展品主要是來自廣東省立中山圖書館所提供的超過一百件歷史文物和圖片，以介紹辛亥革命與...",
+      "id": "149620",
+      "isFree": 0,
+      "location": " 孫中山紀念館  1/F展覽廳",
+      "tag": "expo",
+      "title": "「紙上風雲: 辛亥革命在廣東」展覽"
+    },
+    {
+      "date": "8 Nov 2013 - 16 Feb 2014, 10am (12hr)",
+      "description": "今個冬日，領匯與珍寶珠首度聯手呈獻「領匯x珍寶珠Color Your Mind遊樂場」，適逢今年為珍寶珠...",
+      "id": "182234",
+      "isFree": 1,
+      "location": " 樂富廣場 B區露天平台",
+      "tag": "expo",
+      "title": "樂富廣場「領匯 x 珍寶珠 Color Your Mind遊樂場」聖誕裝飾"
+    },
+    {
+      "date": "28 Nov 2013 - 30 Jan 2014, 5am (19hr)",
+      "description": "香港國際詩歌之夜正在舉行中，那邊廂，一眾詩人在朗誦詩歌，這邊廂，公眾亦可藉「詩歌電...",
+      "id": "220909",
+      "isFree": 0,
+      "location": " 新型號電車車廂內",
+      "tag": "expo",
+      "title": "「詩歌電車行」展覽"
+    },
+    {
+      "date": "25 Oct - 15 Dec",
+      "description": "在香港這個充滿創意的國際都會，舞蹈藝術的創作無論在題材及空間使用上不斷推陳出新，彰...",
+      "id": "147015",
+      "isFree": 0,
+      "location": " 香港 Hong Kong",
+      "tag": "arts",
+      "title": "香港舞蹈節 2013"
+    },
+    {
+      "date": "15 Nov 2013 - 5 Jan 2014",
+      "description": "中西區現代化建築林立，是一個發展迅速、卻又保留著很多歷史悠久又富有特色街道和建築物...",
+      "id": "188620",
+      "isFree": 1,
+      "location": " 中西區 Central & Western District",
+      "tag": "LOHAS",
+      "title": "「活力中西攝影比賽」@第11屆中西區區節"
+    },
+    {
+      "date": "27 Sep - 19 Dec, 7am (15hr)",
+      "description": "9月27日-12月19日，下載BURGER KING 漢堡王的「SHAKE 獎 APP」，有機會獲得「免費華堡」電子優惠券...",
+      "id": "141752",
+      "isFree": 1,
+      "location": " 香港全線Burger King",
+      "tag": "jetso",
+      "title": "Burger King 「免費華堡」電子優惠券"
+    },
+    {
+      "date": "9 Nov 2013 - 6 Apr 2014 (every Sun, Sat) 10am (11hr)",
+      "description": "恐龍於2億年前開始出現，繼而雄霸地球。在地球的漫長歲月中，盤古大陸因地殼板塊運動而分...",
+      "id": "146705",
+      "isFree": 0,
+      "location": " 香港科學館  地下 展覽廳",
+      "tag": "expo",
+      "title": "「巨龍傳奇」展覽"
+    },
+    {
+      "date": "20 Jul 2013 - 12 Jan 2014 (every Sun, Sat) 10am (9hr)",
+      "description": "劉培基為香港著名時裝設計師，他一生傳奇，創造了不少極具代表性的時裝作品。早於1970年代...",
+      "id": "127766",
+      "isFree": 0,
+      "location": " 香港文化博物館",
+      "tag": "expo",
+      "title": "「他Fashion傳奇‧Eddie Lau‧她Image百變‧劉培基」展覽"
+    },
+    {
+      "date": "31 Oct, 7am - 25 Dec, 11:59pm (55d 16hr 59min)",
+      "description": "這個特別的十一月份，OK便利店與超人氣通訊軟體 LINE再度攜手合作，為特別的您呈獻全套共8...",
+      "id": "167622",
+      "isFree": 0,
+      "location": " 於指定的OK 便利店換購",
+      "tag": "jetso",
+      "title": "[換購] OK便利店 X LINE Notebook連筆套裝/百變公仔盒/掛飾"
+    },
+    {
+      "date": "14 Nov 2013 - 8 Jan 2014",
+      "description": "手快有手慢無！！！ 由即日起至2014年1月8日，到全線OK便利店購買任何《長空自遊系列》均可...",
+      "id": "187318",
+      "isFree": 0,
+      "location": " 香港全線OK便利店",
+      "tag": "jetso",
+      "title": "《長空自遊系列》優惠 @OK便利店"
+    },
+    {
+      "date": "1 Dec 2013 - 9 Feb 2014, 5:30am (20hr)",
+      "description": "聖誕節及新年假期將至，港鐵公司將推出小童免費乘搭機場快綫往返機場 優惠，計劃在假期舉...",
+      "id": "201986",
+      "isFree": 1,
+      "location": " 機場快綫",
+      "tag": "jetso",
+      "title": "港鐵「小童免費乘搭機場快綫往返機場」優惠"
+    },
+    {
+      "date": "1 Nov 2013 - 28 Feb 2014, 10am (12hr)",
+      "description": "生活節奏急速, 我們往往忽略周遭事物, 能偶爾停下來細味人生百態, 實在有趣, 更或許會遇上...",
+      "id": "171490",
+      "isFree": 1,
+      "location": " 置地廣場中庭 LANDMARK ATRIUM 3/F",
+      "tag": "expo",
+      "title": "「Streets of Life  街‧景‧情」攝影展"
+    },
+    {
+      "date": "16 Oct - 15 Dec",
+      "description": "凡購買金光飛航2013年10月16日至2013年12月15日期間航班電子船票之乘客，可享受免費升等或現金...",
+      "id": "162955",
+      "isFree": 1,
+      "location": " 金光飛航官方網站",
+      "tag": "jetso",
+      "title": "金光飛航電子船票免費升等或現金券$50優惠"
+    },
+    {
+      "date": "1 Sep - 31 Dec, 11am (12hr)",
+      "description": "即日至2013年12月31日，憑The ONE百老匯戲院之即日電影戲票或票尾到The ONE指定餐飲商戶消費，即...",
+      "id": "139980",
+      "isFree": 1,
+      "location": " The ONE",
+      "tag": "jetso",
+      "title": "The ONE 睇好戲‧嚐滋味"
+    },
+    {
+      "date": "1 Dec (Sun)",
+      "description": "由粵劇營運創新會主辦、一年一度的沙田粵劇同樂日將於2013年12月1日(星期日) 在沙田大會堂廣...",
+      "id": "168716",
+      "isFree": 1,
+      "location": " 粵劇營運創新會Facebook專頁",
+      "tag": "arts",
+      "title": "沙田粵劇同樂日 及 攝影比賽"
+    },
+    {
+      "date": "20 Jul 2013 - 16 Feb 2014 (every Sun, Sat) 10am (9hr)",
+      "description": "為促進粵港澳地區的文化合作，落實第11次粵港澳文化合作會議的工作計劃，廣東省博物館、...",
+      "id": "149187",
+      "isFree": 0,
+      "location": " 香港藝術館 中國書畫展覽廳",
+      "tag": "expo",
+      "title": "「海上瓷路」粵港澳文物大展"
+    },
+    {
+      "date": "1 Nov - 1 Dec",
+      "description": "洋溢異國風味的赤柱、酷炫的酒吧區蘭桂坊、道地的鯉魚門海鮮街……香港的美食區總是讓人...",
+      "id": "148295",
+      "isFree": 1,
+      "location": " 赤柱廣場",
+      "tag": "f&b",
+      "title": "街頭嘉年華 @香港美酒佳餚月2013"
+    },
+    {
+      "date": "25 Nov - 8 Dec, 10am (12hr)",
+      "description": "「活化歷史建築伙伴計劃」巡迴展覽將展示記錄了六幢建築活化前後的珍貴相片。展覽期間，...",
+      "id": "130547",
+      "isFree": 1,
+      "location": " 牛棚藝術村 6號單位",
+      "tag": "expo",
+      "title": "「活化歷史建築伙伴計劃」巡迴展覽"
+    },
+    {
+      "date": "9 Nov 2013 - 23 Feb 2014",
+      "description": "糖．紙．甜蜜聖誕 奧海城2期 主題中庭 今個聖誕，奧海城化身童話故事中的糖果樂園！本地紙...",
+      "id": "177395",
+      "isFree": 1,
+      "location": " 奧海城2期 地下 主題中庭",
+      "tag": "expo",
+      "title": "奧海城「糖『紙』甜蜜聖誕樂園」聖誕裝飾"
+    },
+    {
+      "date": "16 Nov 2013 - 1 Jan 2014",
+      "description": "聖誕節這普天同慶的大日子，悅來坊以「德」意小熊為您打造滿載德國風情的佳節。悅來坊誠...",
+      "id": "199628",
+      "isFree": 1,
+      "location": " 九龍灣國際展貿中心 KITEC",
+      "tag": "expo",
+      "title": "悅來坊「『熊』抱德意聖誕」聖誕裝飾"
+    },
+    {
+      "date": "1 Aug 2013 - 30 Mar 2014, 10am (7hr)",
+      "description": "陶瓷是中華民族古老文明的重要組成部分，在千年歲月中令世人傾倒，世界因其獨特的東方之...",
+      "id": "154447",
+      "isFree": 0,
+      "location": " 南蓮園池  香海軒",
+      "tag": "expo",
+      "title": "「茶山窯之春薪火相傳」 高峰師徒陶瓷作品展"
+    },
+    {
+      "date": "20 Oct 2013 - 16 Feb 2014 (every Sun) 10am (11hr)",
+      "description": "中國文人山水畫講究恬淡蘊藉，以濃淡墨跡皴點於紙上，似是描繪山水，實則訴說心中的澹泊...",
+      "id": "203968",
+      "isFree": 1,
+      "location": " 香港科技大學 李兆基圖書館 唐炳源唐溫金美展覽廳",
+      "tag": "expo",
+      "title": "「果」李展輝山水雕塑展覽"
+    },
+    {
+      "date": "31 Aug 2013 - 31 Jan 2014, 10am (12hr)",
+      "description": "Louis Vuitton將舉行一個為期5個月的展覽 《概念的徒步》，展出兩位中港新晉當代藝術家-高偉剛...",
+      "id": "138440",
+      "isFree": 1,
+      "location": " Louis Vuitton Gallery",
+      "tag": "expo",
+      "title": "「概念的徒步」藝術展"
+    }
+  ],
+  [
+    {
+      "date": "5 May 2013 - 31 Jan 2014, 10am (7hr)",
+      "description": "展覽以香港夢蝶軒所藏近三百項從公元前1500年至公元1700年間歐亞及中國金飾為核心，是香港...",
+      "id": "202925",
+      "isFree": 1,
+      "location": " 香港中文大學 文物館 展廳II",
+      "tag": "expo",
+      "title": "金曜風華「夢蝶軒藏中國古代金飾」展覽"
+    },
+    {
+      "date": "23 Sep - 15 Dec",
+      "description": "「密密睇．密密賞」 戲飛可以當錢使 !？ 集齊UA院線票尾，立即換購心水禮品 !!! 禮品換購日...",
+      "id": "145303",
+      "isFree": 0,
+      "location": " UA院線",
+      "tag": "jetso",
+      "title": "「密密睇．密密賞」UA Cinema"
+    },
+    {
+      "date": "17 Nov 2013 - 1 Jan 2014",
+      "description": "由《反斗車王》創作班底呈獻的本年度卡通動畫電影《飛機總動員》，於暑假期間大收旺場，...",
+      "id": "179818",
+      "isFree": 1,
+      "location": " 新領域廣場 2/F中庭",
+      "tag": "expo",
+      "title": "新地四大商場「飛機總動員‧聖誕競賽大派對」聖誕裝飾"
+    },
+    {
+      "date": "6 May - 31 Dec (except Sat) 10am (12hr)",
+      "description": "常規展出負責人自世界各地搜集回來的迷你書。工作室同時提供多項手造書課程，務求讓參加...",
+      "id": "113976",
+      "isFree": 1,
+      "location": " 賽馬會創意藝術中心 JCCAC L2-12",
+      "tag": "expo",
+      "title": "「天上遊雲」迷你書藏品常規展"
+    },
+    {
+      "date": "6 Oct 2013 - 18 Jan 2014",
+      "description": "一連四個月的「第十一屆中西區區節」即將於10月揭開序幕，今屆區節的免費活動多籮籮，包...",
+      "id": "147026",
+      "isFree": 1,
+      "location": " 中西區 Central & Western District",
+      "tag": "LOHAS",
+      "title": "第11屆中西區區節"
+    },
+    {
+      "date": "4 Sep 2013 - 8 Sep 2014 (except Tue) 10am (8hr)",
+      "description": "茶具文物館致力推動香港的品茗風尚及陶瓷藝術，自1986年至今已舉辦了9屆陶瓷茶具創作比賽...",
+      "id": "145619",
+      "isFree": 0,
+      "location": " 茶具文物館 1/F",
+      "tag": "expo",
+      "title": "陶瓷茶具創作展覽 2013"
+    },
+    {
+      "date": "7 Aug - 19 Dec (135d)",
+      "description": "現訂購香港台北來回機票，二人或以上同行，每位只需港幣900元*！如欲訂購香港往台北並以高...",
+      "id": "133366",
+      "isFree": 0,
+      "location": " 網上",
+      "tag": "travel",
+      "title": "[機票] 國泰二人同行$900元飛台灣超班優惠"
+    },
+    {
+      "date": "30 Jul - 19 Dec (143d)",
+      "description": "備註 1. 以上為每位成人之最低售價，已包含稅金、燃油費等附加費用。 2. 開票時最終售價或...",
+      "id": "131445",
+      "isFree": 0,
+      "location": " 網上預訂",
+      "tag": "travel",
+      "title": "[機票] 中華航空來回台灣$1502起"
+    },
+    {
+      "date": "7 Oct 2013 - 31 Mar 2014, 5:30am (20hr)",
+      "description": "同日每第二程車費9折 即日至2014年3月31日期間，乘客持八達通付費乘搭港鐵、輕鐵或港鐵巴士...",
+      "id": "147938",
+      "isFree": 1,
+      "location": " 港鐵、輕鐵或港鐵巴士全線",
+      "tag": "jetso",
+      "title": "港鐵「同日每第二程九折」優惠"
+    },
+    {
+      "date": "27 Sep 2013 - 28 Feb 2014",
+      "description": "根據Google的調查報告 ，超過九成(96%)香港人每天透過智能手機上網，為亞太區之冠，其中近七...",
+      "id": "228039",
+      "isFree": 1,
+      "location": " 香港 Hong Kong",
+      "tag": "visual",
+      "title": "香港流動影片節 第七屆"
+    },
+    {
+      "date": "18 Nov 2013 - 31 Mar 2014",
+      "description": "寒冷加上乾燥的天氣，對皮膚造成重大傷害。OM Spa推出了全新雙重功效的水療法，讓您每吋肌...",
+      "id": "192266",
+      "isFree": 1,
+      "location": " 富豪機場酒店 OM Spa",
+      "tag": "LOHAS",
+      "title": "OM Spa 冬日甜蜜濃情雙重奏"
+    },
+    {
+      "date": "18 Jul - 31 Dec (167d)",
+      "description": "Visa呈獻「Visa Loves The Peak」主題活動，讓持卡人增添愛上香港山頂地標的理由。體驗旅程由歷...",
+      "id": "129569",
+      "isFree": 1,
+      "location": " 山頂 The Peak",
+      "tag": "jetso",
+      "title": "「Visa Loves The Peak」吃喝購物大獎賞"
+    },
+    {
+      "date": "1 Feb 2013 - 31 Jan 2014, 10am (12hr)",
+      "description": "踏入新一年，香港杜莎夫人蠟像館為本地賓客帶來更多歡樂，將生日驚喜優惠期延長一年。凡...",
+      "id": "94470",
+      "isFree": 1,
+      "location": " 香港杜莎夫人蠟像館",
+      "tag": "jetso",
+      "title": "香港杜莎夫人蠟像館「生日之星」免費入場優惠"
+    },
+    {
+      "date": "30 Jun - 31 Dec",
+      "description": "發展局文物保育專員辦事處將於6月30日至12月31日，假香港國際機場一號客運大樓舉行「古蹟展...",
+      "id": "123665",
+      "isFree": 1,
+      "location": " 香港國際機場 Hong Kong International Airport",
+      "tag": "expo",
+      "title": "「古蹟展『新』機」展覽"
+    },
+    {
+      "date": "23 Apr - 31 Dec",
+      "description": "「家是香港」是全港的公衆參與運動，目的是為香港注入正能量，加強社會的凝聚力，推廣關...",
+      "id": "111772",
+      "isFree": 1,
+      "location": " 全港",
+      "tag": "LOHAS",
+      "title": "「家是香港」全港公眾活動"
+    },
+    {
+      "date": "20 Jul 2013 - 15 Jul 2018 (every Sun, Sat) 10am (9hr)",
+      "description": "李小龍中西文化交融的個人背景及自信不凡的性格交出一段傳奇人生。他出生於美國三藩市，...",
+      "id": "123100",
+      "isFree": 0,
+      "location": " 香港文化博物館",
+      "tag": "expo",
+      "title": "「武．藝．人生 - 李小龍」展覽"
+    }
+  ]
+]

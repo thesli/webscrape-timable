@@ -1,0 +1,1353 @@
+[
+  [
+    {
+      "date": "22 Apr - 12 May, 6pm (9hr 45min)",
+      "description": "晚晚六點 麥麥開飯 創新推介脆雞或牛肉「麥飯卷」，香烘烤餅包住清新生菜、香菇飯餅同惹...",
+      "id": "110975",
+      "isFree": 0,
+      "location": " 香港全線麥當勞餐廳",
+      "tag": "f&b",
+      "title": "麥當勞 - 晚晚六點 麥麥開飯"
+    },
+    {
+      "date": "25 Apr - 6 Jun (every Tue to Thu) 11am (8hr)",
+      "description": "西九文化區管理局在西九文化區公園的所在地，即香港未來視覺文化博物館M+旁舉辦大型展覽...",
+      "id": "109792",
+      "isFree": 1,
+      "location": " 西九文化區 West Kowloon Cultural District",
+      "tag": "expo",
+      "title": "「M+ 進行: 充氣! Inflation!」當代戶外雕塑展覽"
+    },
+    {
+      "date": "1 May (Wed) 3pm (1hr)",
+      "description": "Pop Music Bar第一擊邀請到熱血搖滾樂隊Kolor，黎到PopCorn一樓演薈廣場同大家唱足1個鐘，帶大家...",
+      "id": "112220",
+      "isFree": 1,
+      "location": " PopCorn 一樓大舞台",
+      "tag": "music",
+      "title": "KOLOR x PopCorn Bandshow"
+    },
+    {
+      "date": "1 May (Wed) 3pm (1hr 30min)",
+      "description": "劉以達推出全新大碟《第四度空間》，內容講述宇宙社會人生和愛，再配上由劉以達一手包辦...",
+      "id": "111817",
+      "isFree": 1,
+      "location": " 荷里活廣場 1/F明星廣場",
+      "tag": "music",
+      "title": "劉以達「第四度空間」簽唱會"
+    },
+    {
+      "date": "1 May (Wed) 9:30am (2hr)",
+      "description": "天氣終於回暖，泳季轉眼就到啦。 各位游手休水咁耐，一定好技癢想一顯身手。 不如就係5月1...",
+      "id": "103518",
+      "isFree": 0,
+      "location": " 淺水灣泳灘",
+      "tag": "LOHAS",
+      "title": "香港水上安全日水上安全嘉年華暨第八屆香港3000公尺水上安全長途暢泳 2013"
+    },
+    {
+      "date": "1 May (Wed) 5:30pm (3hr)",
+      "description": "籃球巨星姚明將參與「2013澳門威尼斯人國際群星籃球對抗賽」，是他自2011年從美國國家籃球...",
+      "id": "111989",
+      "isFree": 0,
+      "location": " 澳門威尼斯人 金光綜藝館",
+      "tag": "LOHAS",
+      "title": "「國際群星籃球對抗賽」澳門威尼斯人"
+    },
+    {
+      "date": "1 May (Wed) 2pm (6hr)",
+      "description": "勞動節 咪勞動 請你嘆杯茶 PCC粉絲於1/5/2013在指定分店*可免費換領PCC膠囊機調製嘅熱茶一杯，...",
+      "id": "113002",
+      "isFree": 1,
+      "location": " 全港Pacific Coffee指定分店",
+      "tag": "jetso",
+      "title": "Pacific Coffee免費請您嘆茶"
+    },
+    {
+      "date": "1 May (Wed) noon (10hr)",
+      "description": "5月1 日港鐵兩個商場:德福廣場及青衣城將同日舉行「一誌約定 5.1瘋狂購物日」，大家只須在...",
+      "id": "111574",
+      "isFree": 0,
+      "location": " 德福廣場、青衣城",
+      "tag": "jetso",
+      "title": "5. 1一誌約定 瘋狂購物日"
+    },
+    {
+      "date": "1 May (Wed)",
+      "description": "勞動節，目的是為了慶祝勞動者對社會和經濟的所作的貢獻。勞動節是十九世紀以來工人運動...",
+      "id": "85983",
+      "isFree": 1,
+      "location": " 香港 Hong Kong",
+      "tag": "festival",
+      "title": "勞動節"
+    },
+    {
+      "date": "28 Mar - 5 May",
+      "description": "由昂坪360舉辦之「激舞花繩360」，明天在昂坪市集正式啟動。昂坪360特別邀請了由美國遠道而...",
+      "id": "106524",
+      "isFree": 1,
+      "location": " 昂坪市集",
+      "tag": "LOHAS",
+      "title": "激舞花繩 360"
+    },
+    {
+      "date": "1 - 5 May, 11am (8hr)",
+      "description": "為配合周輝「隨心快拍」攝影展，同場亦有微電影「婚姻。情人」的電影首映，首映日期為：3...",
+      "id": "112310",
+      "isFree": 1,
+      "location": " 賽馬會創意藝術中心 L0藝廊",
+      "tag": "expo",
+      "title": "「隨心快拍」周輝攝影展"
+    },
+    {
+      "date": "1 - 5 May, 11am (9hr)",
+      "description": "多款名牌時裝低至二折！仲唔快D黎瘋狂掃貨？ 品牌包括: MOSCHINO, ANYA HINDMARCH, BLUMARINE, CARVEN, ALE...",
+      "id": "113073",
+      "isFree": 0,
+      "location": " 時代廣場 13/F Bazaar展銷集 (由地面食通天電梯直達)",
+      "tag": "style",
+      "title": "Bluebell Warehouse Sale @時代廣場 Bazaar"
+    },
+    {
+      "date": "19 Apr - 12 May (every Sun, Tue to Fri) 7:45pm (2hr)",
+      "description": "全球數百萬觀眾見證過的舞台奇戀：寶貝和尊尼，兩位堅定、獨立的年輕人，來自兩個世界，...",
+      "id": "84027",
+      "isFree": 0,
+      "location": " 香港文化中心 大劇院",
+      "tag": "arts",
+      "title": "《辣身舞 Dirty Dance》音樂劇"
+    },
+    {
+      "date": "27 Apr - 1 May, 10am (12hr)",
+      "description": "日日返工咁攰，梗係要趁放假慰勞下自己同屋企人啦! 嚟Citywalk Shopping，消費滿HK$200或以上，就...",
+      "id": "112242",
+      "isFree": 0,
+      "location": " 荃新天地 Citywalk",
+      "tag": "jetso",
+      "title": "五．一最高消費大獎賞@Citywalk"
+    },
+    {
+      "date": "1 - 6 May, 11am (10hr)",
+      "description": "Bazaar又開倉~ 快D黎搶返名牌貨喇! 品牌包括: Columbia, Rockport, Aerosoles, Teva, arena, speedo, JOCKEY, CHEVIG...",
+      "id": "113079",
+      "isFree": 0,
+      "location": " 海港城 Bazaar展銷集 (九倉電訊中心5/F)",
+      "tag": "jetso",
+      "title": "名牌運動服飾激減 @海港城Bazaar"
+    },
+    {
+      "date": "29 Apr - 5 May, 10am (9hr)",
+      "description": "「進入實驗室前請大家作好準備……請隨著我們的步伐緩緩向前走，一起感受這步伐的意義； ...",
+      "id": "112678",
+      "isFree": 1,
+      "location": " 浸會大學視覺藝術院 (彩虹站A2出口)",
+      "tag": "expo",
+      "title": "「入實驗室撳緊急掣」實驗藝術展"
+    },
+    {
+      "date": "30 Apr - 5 May, 10:30am (10hr 30min)",
+      "description": "憑以上海報參與「雪花秀 春日美肌約會」即可獲贈皇牌產品First Care Activating Serum、Snowise EX Whit...",
+      "id": "112927",
+      "isFree": 1,
+      "location": " 海港城 港威商場大堂II",
+      "tag": "jetso",
+      "title": "雪花秀 春日美肌約會"
+    },
+    {
+      "date": "26 Apr - 4 May (except Sun) 10am (9hr)",
+      "description": "不知道大家有沒有這樣的感覺，每當談到藝術，一般人都有「只可遠觀而不可收藏」之感。一...",
+      "id": "112654",
+      "isFree": 1,
+      "location": " 雲峰畫苑",
+      "tag": "expo",
+      "title": "「後現代主義」新當代藝術展"
+    },
+    {
+      "date": "1 Jan - 31 Dec, 8pm (14min)",
+      "description": "全球「最大型燈光音樂匯演」，已被列入《健力士世界紀錄》。每晚8:00，維多利亞港兩岸的建...",
+      "id": "107947",
+      "isFree": 1,
+      "location": " 維多利亞港",
+      "tag": "festival",
+      "title": "幻彩詠香江 2013 A Symphony of Lights"
+    },
+    {
+      "date": "25 Apr - 4 May, 10am (9hr)",
+      "description": "於 SiuMing 的攝影網頁上,你會看見多項如以上般真摯感人的高度評價。作為屢獲國際獎項的香港...",
+      "id": "109628",
+      "isFree": 1,
+      "location": " Vibeland",
+      "tag": "expo",
+      "title": "「Depth of Feel 景深‧心境」攝影展覽"
+    },
+    {
+      "date": "26 Apr - 5 May, 10am (9hr)",
+      "description": "由14位本地年輕藝術家兼浸會大學視覺藝術學院藝術碩士學生聯手參與的跨媒介視覺藝術聯展...",
+      "id": "110839",
+      "isFree": 1,
+      "location": " 香港浸會大學 傳理視藝大樓 顧明均展覽廳地下",
+      "tag": "expo",
+      "title": "「視傳．五感」跨媒介視覺藝術聯展"
+    },
+    {
+      "date": "26 Apr - 5 May, noon (9hr)",
+      "description": "為慶祝5.1黃金周，始創中心為大家呈獻各種震撼購物優惠，並為大家送上一連串精彩活動，包...",
+      "id": "112237",
+      "isFree": 0,
+      "location": " 始創中心",
+      "tag": "jetso",
+      "title": "始創5.1黃金周購物節"
+    },
+    {
+      "date": "2 Apr - 3 May (weekdays) 3pm (2hr 30min)",
+      "description": "有些女人，無論開心不開心，都愛買鞋。 另外一些女人，不愛買鞋，但愛甜品。 而更多女人...",
+      "id": "110608",
+      "isFree": 0,
+      "location": " 香港置地文華東方酒店 MO Bar",
+      "tag": "f&b",
+      "title": "Jimmy Choo High Tea 期間限定下午茶"
+    },
+    {
+      "date": "19 Apr - 4 May (except Sun) noon (7hr)",
+      "description": "本地攝影藝術空間「黑點」即將呈獻攝影展「都有定時」，三位本地藝術家－－唐景鋒、尹子...",
+      "id": "108846",
+      "isFree": 1,
+      "location": " 黑點 The Photocrafters",
+      "tag": "expo",
+      "title": "「都有定時」攝影展 - 唐景鋒, 尹子聰, 殷家樑"
+    },
+    {
+      "date": "25 Apr - 5 May, 10am (9hr 30min)",
+      "description": "歐陸鞋款低至六折！購買指定品牌更有精美禮品附送！...",
+      "id": "112027",
+      "isFree": 0,
+      "location": " 各先施分店(中環、旺角、深水埗及荃灣)",
+      "tag": "jetso",
+      "title": "先施 夏日鞋款六折優惠"
+    },
+    {
+      "date": "19 Apr - 18 May (every Wed to Sat) 1pm (6hr)",
+      "description": "「一心多用已成為現代人的常態，時間也漸變成最奢華的財產，如何在忙碌的步調維持平衡，...",
+      "id": "108586",
+      "isFree": 1,
+      "location": " YY9 Gallery",
+      "tag": "expo",
+      "title": "「快．活．兩頭騰」樊潤華繪畫個展"
+    },
+    {
+      "date": "28 Apr - 5 May (every Sun to Thu) 11am (11hr)",
+      "description": "擁抱美麗香港 利舞臺旗艦店獨家優惠 即日至4月28日 多款淨色及印花女裝緊身褲 原價 $199 限定...",
+      "id": "112226",
+      "isFree": 1,
+      "location": " UNIQLO利舞臺旗艦店",
+      "tag": "style",
+      "title": "UNIQLO利舞臺旗艦店 獨家優惠"
+    },
+    {
+      "date": "29 Apr, 12am - 3 May, 11:59pm (4d 23hr 59min)",
+      "description": "Paypal / Visa / MasterCard / 美國運通卡 / 中國銀聯卡 尊享優先訂票服務 訂票詳情 訂購場次: 2013年6...",
+      "id": "112586",
+      "isFree": 0,
+      "location": " 網上",
+      "tag": "music",
+      "title": "[優先訂票] 盧海鵬．詹瑞文《紅館奇幻扮嘢大典》"
+    },
+    {
+      "date": "30 Apr - 9 May, 10am (12hr)",
+      "description": "Harvey Nichols、Beauty Bazaar 呈獻五．一美容黃金周精彩白金禮遇名受及美容優惠 超過80個美容尊貴...",
+      "id": "112944",
+      "isFree": 0,
+      "location": " Harvey Nichols / Beauty Bazaar 專門店",
+      "tag": "style",
+      "title": "五．一美容黃金周 Harvey Nichols / Beauty Bazaar"
+    },
+    {
+      "date": "27 Apr - 31 May, 6:30pm (3hr 30min)",
+      "description": "今個仲夏，香港黃金海岸酒店的聆渢咖啡廳將換上全新面貌，特別推出「仲夏．海鮮薈國際自...",
+      "id": "111560",
+      "isFree": 0,
+      "location": " 香港黃金海岸酒店",
+      "tag": "f&b",
+      "title": "仲夏．海鮮薈國際自助晚餐"
+    }
+  ],
+  [
+    {
+      "date": "22 Apr - 28 Jun (weekdays) noon (2hr 30min)",
+      "description": "Yamm「買三送一」優惠載譽歸來，四人同行只需付三位價錢，即可飽嚐琳瑯滿目的矜貴海鮮及各...",
+      "id": "111448",
+      "isFree": 0,
+      "location": " Yamm, The Mira",
+      "tag": "f&b",
+      "title": "The Mira「買三送一」自助餐午膳"
+    },
+    {
+      "date": "25 Apr - 31 Dec",
+      "description": "「一夜聲光，你會陪我去看嗎？」 全港最高的環球貿易廣場ICC呈獻「ICC聲光耀維港」，於大廈...",
+      "id": "109798",
+      "isFree": 1,
+      "location": " 環球貿易廣場 International Commerce Centre",
+      "tag": "travel",
+      "title": "ICC聲光耀維港"
+    },
+    {
+      "date": "25 Apr - 6 May, 11am (11hr)",
+      "description": "國際勞動日優惠 ！ 由25/4 ~ 6/5期間，會員憑卡購物滿$300，即享正價貨品75折，特價貨品9折優惠...",
+      "id": "111746",
+      "isFree": 0,
+      "location": " 全港 759阿信屋 分店",
+      "tag": "jetso",
+      "title": "759阿信屋 大折日"
+    },
+    {
+      "date": "12 Apr - 10 May (every Tue to Fri) 2pm (6hr)",
+      "description": "畫作曾被美國總統奧巴馬欽點納入個人永久收藏的畫家Nelson Cabán，將在亞洲舉辦首個作品展「...",
+      "id": "108097",
+      "isFree": 1,
+      "location": " Voxfire Gallery",
+      "tag": "expo",
+      "title": "「Full Blown 80s」Nelson Cabán 作品展"
+    },
+    {
+      "date": "12 Apr - 4 May (every Tue to Sat) 11am (8hr)",
+      "description": "刺點畫廊最新展覽“天體運轉”展出現居紐約的香港藝術家吳欣慈繼2011年於刺點畫廊的第二次...",
+      "id": "111521",
+      "isFree": 1,
+      "location": " 刺點畫廊",
+      "tag": "expo",
+      "title": "「天體運轉」藝術展覽"
+    },
+    {
+      "date": "6 Apr - 3 May (every Tue to Sat) 11am (7hr)",
+      "description": "Gallery EXIT 安全口畫廊呈獻《用燈光照著一盞燈》，是黎卓華與畫廊合辦的第三次個展。 這次...",
+      "id": "108158",
+      "isFree": 1,
+      "location": " Gallery EXIT",
+      "tag": "expo",
+      "title": "「用燈光照著一盞燈」黎卓華個展"
+    },
+    {
+      "date": "22 Apr - 5 May, noon (10hr)",
+      "description": "皇室堡「母親節 情獻窩心美意」推廣活動 母親節將至，為答謝媽媽對子女無微不至的愛，皇...",
+      "id": "110893",
+      "isFree": 0,
+      "location": " 皇室堡 地下 顧客服務中心",
+      "tag": "festival",
+      "title": "「母親節 情獻窩心美意」推廣活動"
+    },
+    {
+      "date": "29 Apr - 12 May, 11am (10hr)",
+      "description": "Sealy床褥用品折扣低至5折！ - 請注意各分店營業時間各有不同, 詳情請參閱官方資料 - 優惠貨...",
+      "id": "112673",
+      "isFree": 0,
+      "location": " 全港Sealy專門店",
+      "tag": "jetso",
+      "title": "Sealy 床褥折扣優惠"
+    },
+    {
+      "date": "23 Apr - 5 May, 11am (11hr)",
+      "description": "Sawadeka~AEON泰國食品節開幕啦! 除左有thai dancing之外, 仲有新鮮好味既泰國生果同各款食品~泰國...",
+      "id": "111663",
+      "isFree": 0,
+      "location": " 屯門市廣場 tmtplaza",
+      "tag": "f&b",
+      "title": "泰國食品節@屯門市廣場"
+    },
+    {
+      "date": "30 Apr, 8am - 6 May, 8am (6d)",
+      "description": "第二十七輪 限時優惠, 限量熱賣 fanfares 震撼優惠,星期二早上8時登場 新一輪fanfares，機票優惠...",
+      "id": "112860",
+      "isFree": 0,
+      "location": " 網上",
+      "tag": "travel",
+      "title": "[機票] 國泰/港龍 fanfares 限時優惠 第二十七輪"
+    },
+    {
+      "date": "13 Apr - 14 May (every Tue to Sat) noon (7hr)",
+      "description": "展覽是本不能攜帶的書，敘述錯失。 錯過於何時，失落了甚麼？我們張口卻無語。因而，重塑...",
+      "id": "107397",
+      "isFree": 1,
+      "location": " 提藝廊 • 站臺",
+      "tag": "expo",
+      "title": "「相逢恨晚」阿三個人作品展"
+    },
+    {
+      "date": "22 Apr - 11 May (except Sun) 11am (8hr)",
+      "description": "Title: Cloud Artist: Zhu Jingyi Medium: acrylic, iron wire and wood Size: 120x90x30cm Year: 2012 Conforming to the norm...",
+      "id": "105791",
+      "isFree": 1,
+      "location": " Karin Weber Gallery",
+      "tag": "expo",
+      "title": "「EXPLORATION」 Exhibition by ZHU Jingyi Marshall"
+    },
+    {
+      "date": "27 Apr - 18 May (every Tue to Sat) 10:30am (8hr 30min)",
+      "description": "「留白」乃中國傳統繪畫的一個重要特徵，它指的是畫面上故意留下的大片空白。這些不着一...",
+      "id": "110203",
+      "isFree": 1,
+      "location": " EC Gallery",
+      "tag": "expo",
+      "title": "「留白」李颯個展"
+    },
+    {
+      "date": "25 Apr - 8 May, 10:30am (12hr)",
+      "description": "「瘋狂熱賣雙週」又嚟喇！大家喺時候出動啦！IKEA3間分店已為大家準備咗十幾款搶手貨，數...",
+      "id": "112250",
+      "isFree": 0,
+      "location": " 全港3間IKEA",
+      "tag": "jetso",
+      "title": "IKEA 瘋狂熱賣雙週"
+    },
+    {
+      "date": "17 Apr - 21 May, 1pm (5hr)",
+      "description": "A Gallery is delighted to present a series of works by Aranya Khunchawattichai, an emerging Thai artist. Arany...",
+      "id": "113913",
+      "isFree": 1,
+      "location": " A Gallery",
+      "tag": "expo",
+      "title": "「Dark Angels」視藝展"
+    },
+    {
+      "date": "18 Apr - 10 May (weekdays) 11am (8hr)",
+      "description": "The Cat Street Gallery is thrilled to present TOURIST, the first solo show in Hong Kong by British artist, Mela...",
+      "id": "112659",
+      "isFree": 1,
+      "location": " The Cat Street Gallery",
+      "tag": "expo",
+      "title": "「TOURIST」畫展"
+    },
+    {
+      "date": "25 Apr - 2 May (8d)",
+      "description": "下期別注版U Magazine找來經典遊泳品牌 arena 與及人氣長期高企嘅 Hello Kitty，攜手打造超巨型沙...",
+      "id": "111368",
+      "isFree": 0,
+      "location": " 各大便利店及書報攤 (請支持本土書報攤!)",
+      "tag": "jetso",
+      "title": "[U Magazine別注版] arena X Hello Kitty超巨型沙灘袋"
+    },
+    {
+      "date": "29 Apr - 6 May",
+      "description": "#935 特別版《東TOUCH》將隨書附上A Bathing Ape \"Bape Silicone Watch\"一隻，售價為$60 (另有 $15普通版發...",
+      "id": "111778",
+      "isFree": 0,
+      "location": " 全港報攤及便利店",
+      "tag": "jetso",
+      "title": "[東touch特別版] 送 A Bathing Ape手錶"
+    },
+    {
+      "date": "19 Apr - 3 May, 8am (13hr)",
+      "description": "Last year, IslandEast has gathered 146 volunteers to engage more than 18,000 hours for 4 different programmes in Hong K...",
+      "id": "112971",
+      "isFree": 1,
+      "location": " 太古坊 - Island East Market",
+      "tag": "expo",
+      "title": "「Back To Basic」Project Exhibition"
+    },
+    {
+      "date": "22 Apr - 21 May (weekdays) 9am (9hr)",
+      "description": "為了提高市民的口腔健康意識，香港牙醫學會於四月至五月為市民進行免費的口腔檢查，全城...",
+      "id": "110823",
+      "isFree": 1,
+      "location": " 香港指定牙醫診所",
+      "tag": "jetso",
+      "title": "口腔健康月2013"
+    },
+    {
+      "date": "2 Jan - 30 Jun",
+      "description": "自1957年太空時代開始以來，人類發射了數以千計的人造衞星，而只有大約一千個仍然運作。這...",
+      "id": "88185",
+      "isFree": 0,
+      "location": " 香港太空館 何鴻燊天象廳",
+      "tag": "visual",
+      "title": "《人造災劫3D》太空館全天域電影"
+    },
+    {
+      "date": "24 Apr - 2 May",
+      "description": "Your Mum『你媽』繼上次與日本搞手 Hostess Club 合作帶來 sold out 的 Dirty Projectors + Ra Ra Riot演唱會...",
+      "id": "110363",
+      "isFree": 1,
+      "location": " Timable",
+      "tag": "music",
+      "title": "[Timable請睇Show] 送《Múm + Wavves》香港演唱會門票"
+    },
+    {
+      "date": "25 Apr - 12 May, 8am (12hr)",
+      "description": "聖安娜全新母親節蛋糕 母親節又嚟喇！為親愛的媽媽送上一個至窩心的蛋糕，溫馨滋味甜在心...",
+      "id": "113340",
+      "isFree": 0,
+      "location": " 全港聖安娜各分店",
+      "tag": "jetso",
+      "title": "聖安娜 送您輕鬆小熊Tote Bag"
+    },
+    {
+      "date": "20 Apr - 26 May (except Mon) 11am (7hr)",
+      "description": "馮浩然是次展出近年製作的一個新系列 - 都是各式各樣雲霞的景致。 作品全部均採用一個歷史...",
+      "id": "113995",
+      "isFree": 1,
+      "location": " 賽馬會創意藝術中心 JCCAC L2-10",
+      "tag": "expo",
+      "title": "「雲端光景」馮浩然個展"
+    },
+    {
+      "date": "24 Apr - 31 May (every Tue to Sat) 11am (8hr)",
+      "description": "Participating Artists: Dale Adcock, Katrina Blannin, Gary Colclough, Corinne Felgate, Nick Hornby, William Stein...",
+      "id": "108352",
+      "isFree": 1,
+      "location": " Identity Art Gallery",
+      "tag": "expo",
+      "title": "「The Fine Line」Art Exhibition"
+    },
+    {
+      "date": "8 Apr - 10 May (weekdays) 8:30am (9hr)",
+      "description": "Carrie Chau，Nature（為國際小母牛設計的海報）， 混合媒介，88厘米 x 88厘米， 2009 薩凡納藝術設...",
+      "id": "108177",
+      "isFree": 1,
+      "location": " Moot 藝廊",
+      "tag": "arts",
+      "title": "「In the Mix」Daydream Nation, Carrie Chau, 又一山人(黃炳培) 聯合作品展"
+    },
+    {
+      "date": "1 May (Wed) noon (5hr 30min)",
+      "description": "2013年1月26曰至5月26日范赫畫廊工作坊將會展出超過40件微型香港場景模型,這些模型是六位藝術...",
+      "id": "93521",
+      "isFree": 1,
+      "location": " 范赫畫廊工作坊 Flanhardt Galerie und Atelier",
+      "tag": "expo",
+      "title": "微型香港場景模型展覽 Exhibition of Miniature Models of Hong Kong Scenes"
+    },
+    {
+      "date": "20 Apr - 12 May, 10am (10hr)",
+      "description": "「光的藝術」由香港美術教育協會主辦，是以推廣環保為主要的大型光影藝術教育計劃，預計...",
+      "id": "106615",
+      "isFree": 1,
+      "location": " 數碼港 Cyberport",
+      "tag": "LOHAS",
+      "title": "全港學界「光的藝術」創作比賽2013 作品展及頒獎禮"
+    },
+    {
+      "date": "27 Apr - 19 May, 11am (10hr)",
+      "description": "一年一度的母親節快將到來，陽光房地產基金 (Sunlight REIT) 旗下兩大商場 上水中心購物商場 及...",
+      "id": "114199",
+      "isFree": 1,
+      "location": " 上水中心購物商場及新都城中心一期",
+      "tag": "LOHAS",
+      "title": "「甜心媽媽小人國」母親節佈置"
+    },
+    {
+      "date": "18 Apr - 1 Jun (every Tue to Sat) 11am (7hr)",
+      "description": "一次由Koru 現代藝廊與Mur Nomade 聯合舉辦的展覽 本次展覽的題目是想考一下受邀的參觀者，想...",
+      "id": "108187",
+      "isFree": 1,
+      "location": " Koru 現代藝廊",
+      "tag": "expo",
+      "title": "「Things Happen for a Reason 因何緣起」聯展"
+    }
+  ],
+  [
+    {
+      "date": "12 Apr - 16 May (except Sun) 10am (8hr)",
+      "description": "Simon Lee Gallery Hong Kong is proud to present the work of internationally acclaimed photographer and filmmaker Larry...",
+      "id": "109782",
+      "isFree": 1,
+      "location": " SIMON LEE HONG KONG",
+      "tag": "expo",
+      "title": "Larry Clark 攝影展覽"
+    },
+    {
+      "date": "1 May - 31 Oct",
+      "description": "地 球 上 的 大 城 市 數 以 百 計 ， 不 同 種 族 的 人 在 城 市 裏 奔 波 忙 碌 。 但 你 有 沒 ...",
+      "id": "114916",
+      "isFree": 0,
+      "location": " 香港太空館 何鴻燊天象廳",
+      "tag": "visual",
+      "title": "《珊瑚礁 ─ 消失的海底之城》太空館全天域電影"
+    },
+    {
+      "date": "29 Apr - 11 May, 6am (19hr)",
+      "description": "全亞洲最大型冰球賽事 由MegaBox 及Mega Ice主辦，嘉里建設呈獻「2013 Mega Ice五人冰球賽」，今屆...",
+      "id": "110753",
+      "isFree": 1,
+      "location": " MegaBox",
+      "tag": "LOHAS",
+      "title": "Mega Ice 五人冰球賽 2013"
+    },
+    {
+      "date": "1 - 31 May, 11am (8hr)",
+      "description": "由英國保誠集團呈獻的Hong Kong Eye是個巡迴藝術展，於2012年12月在倫敦Saatchi Gallery率先揭幕，在...",
+      "id": "112962",
+      "isFree": 1,
+      "location": " 太古坊 ArtisTree",
+      "tag": "expo",
+      "title": "「Hong Kong Eye」當代藝術展"
+    },
+    {
+      "date": "1 - 31 May, 11am (8hr)",
+      "description": "全球領先的中國當代藝術投資專家Art Futures Group (AFG)呈獻備受追棒的藝術家 –––– 劉力國，...",
+      "id": "114939",
+      "isFree": 1,
+      "location": " ART ONE",
+      "tag": "expo",
+      "title": "劉力國個人展"
+    },
+    {
+      "date": "16 Apr - 6 May, 10am (12hr)",
+      "description": "LCX聯同集繪畫與設計於一身的創作人Leon Lollipop，將寵物、愛及時裝來一個大結合，把展覽場化...",
+      "id": "108140",
+      "isFree": 1,
+      "location": " 海港城 LCX",
+      "tag": "expo",
+      "title": "「Pet‧Fashion‧Love」展覽"
+    },
+    {
+      "date": "3 Apr - 11 May (every Tue to Sat) 11am (9hr)",
+      "description": "貝浩登（香港）隆重宣佈將於2013年4月3日至5月11日為 Wim Delvoye舉辦個人展覽，展出這名比利時...",
+      "id": "104432",
+      "isFree": 1,
+      "location": " Galerie Perrotin",
+      "tag": "arts",
+      "title": "Wim Delvoye 個人展覽"
+    },
+    {
+      "date": "3 Apr - 11 May (every Tue to Sat) 11am (9hr)",
+      "description": "貝浩登 (香港) 很榮幸將於2013年4月3日至5月11日為菲律賓籍藝術家 Ronald Ventura 舉辦個展，展示...",
+      "id": "106000",
+      "isFree": 1,
+      "location": " Galerie Perrotin",
+      "tag": "expo",
+      "title": "「VOIDS and CAGES」Ronald Ventura Exhibition"
+    },
+    {
+      "date": "24 Apr - 20 May, 11am (10hr)",
+      "description": "眼鏡88指定春季貨品低至6折！又係時候買返副夠鮮夠搶嘅新眼鏡，換個新look，迎接盛夏啦！ - ...",
+      "id": "111853",
+      "isFree": 0,
+      "location": " 全港 眼鏡88分店",
+      "tag": "jetso",
+      "title": "眼鏡88 限定貨品6折"
+    },
+    {
+      "date": "19 Apr - 8 Jun (every Tue to Sat) 10am (8hr)",
+      "description": "春. 淫夢 I SPRING an exhibition of erotic photography by seven international artists: Nobuyoshi Araki, Daido Moriyama, Ma...",
+      "id": "110924",
+      "isFree": 1,
+      "location": " AO Vertical 藝術空間",
+      "tag": "expo",
+      "title": "「春. 淫夢 I SPRING」攝影展"
+    },
+    {
+      "date": "12 Apr - 6 May, 10:30am (12hr)",
+      "description": "三文魚係瑞典重主要食材，今日開始嘅「三文魚美食節」會獻上一系列優質三文魚，fans喺餐廳...",
+      "id": "110683",
+      "isFree": 0,
+      "location": " IKEA 沙田&九龍灣餐廳",
+      "tag": "f&b",
+      "title": "IKEA 三文魚美食節"
+    },
+    {
+      "date": "10 Apr - 28 May (every Tue to Fri) 10am (9hr)",
+      "description": "專營當代印刷藝術及攝影藝術品的本地畫廊Artify Gallery宣佈將於2013年4月10日至5月28日為中國藝...",
+      "id": "109214",
+      "isFree": 1,
+      "location": " Artify Gallery",
+      "tag": "expo",
+      "title": "「BADGIRL: 塑膠冰淇淋」宋洋個人展覽"
+    },
+    {
+      "date": "1 Mar - 31 Aug",
+      "description": "讓我們一起走到地球的最北端，展開一段難忘的北極之旅。在這片遼闊的凍土之上，我們會看...",
+      "id": "103531",
+      "isFree": 0,
+      "location": " 香港太空館 何鴻燊天象廳",
+      "tag": "visual",
+      "title": "《北極熊心》太空館全天域電影"
+    },
+    {
+      "date": "1 - 26 May, 10am (12hr)",
+      "description": "一直以來，K11積極提供互動藝術平台，提拔不同藝術領域的新秀，將他們的才華帶給香港、中...",
+      "id": "114277",
+      "isFree": 1,
+      "location": " K11 Stage of the Arts (B207)",
+      "tag": "expo",
+      "title": "「style lines 型格線」時裝及形象設計展"
+    },
+    {
+      "date": "1 - 29 May, 11am (11hr)",
+      "description": "好消息! (24/05/2013) 橡皮鴨寫真展會延期至5月29號! 鴨粉們可以有多3日時間，睇佢遊世界既靚相...",
+      "id": "112009",
+      "isFree": 1,
+      "location": " 海港城．美術館 Gallery by the Harbour (海洋中心207號,近FENDI)",
+      "tag": "expo",
+      "title": "「橡皮鴨」寫真展"
+    },
+    {
+      "date": "18 Apr - 19 May, noon (10hr)",
+      "description": "繁花綻放，如沐春風，春夏是色彩絢爛的季節，時裝舞台亦同樣多姿多彩！沙田新城市廣場近...",
+      "id": "110340",
+      "isFree": 1,
+      "location": " 新城市廣場 3期 1/F天幕長廊",
+      "tag": "expo",
+      "title": "「預見時尚」Florence Bamberger 作品展"
+    },
+    {
+      "date": "1 - 31 May, 11am (10hr 30min)",
+      "description": "日本Phiten開倉勁減優惠！ 售賣各種健康用品包括：手帶、護具、優閒褲、T-shirt、內良衣褲等...",
+      "id": "112924",
+      "isFree": 0,
+      "location": " 黃埔新天地 時尚坊地庫",
+      "tag": "jetso",
+      "title": "Phiten 健康用品開倉優惠"
+    },
+    {
+      "date": "27 Apr - 22 Jun (every Tue to Sat) 10am (8hr)",
+      "description": "香港鹹魚業早在開埠前已開始，開埠後，因地理關係，西營盤是鹹魚業的重鎮。鹹魚曾是普羅...",
+      "id": "112663",
+      "isFree": 1,
+      "location": " 長春社文化古蹟資源中心 (36號A後座)",
+      "tag": "expo",
+      "title": "「城西魚香 － 鹹魚欄的故事」展覽"
+    },
+    {
+      "date": "28 Apr - 19 May, 8am (15hr)",
+      "description": "獲譽為超跑狂牛的林寶堅利今年已經50歲，為隆重其事，品牌將舉行各項慶祝盛事，更以香港...",
+      "id": "114718",
+      "isFree": 1,
+      "location": " 赤柱廣場",
+      "tag": "expo",
+      "title": "「林寶堅尼香港x 領匯 x 奔牛節@赤柱廣場」公開展覽"
+    },
+    {
+      "date": "27 Apr - 26 May, 11am (11hr)",
+      "description": "新鴻基地產集團旗下的「全港最大一站式家居主題商場」 HomeSquare 集結來自世界各地多樣化的...",
+      "id": "112330",
+      "isFree": 1,
+      "location": " 新城市中央廣場 HomeSquare",
+      "tag": "expo",
+      "title": "「光與夢」寢室設計展"
+    },
+    {
+      "date": "18 Apr - 1 May (14d)",
+      "description": "GAP網上商店精選春季商品低至五折! 貨品種類包括女裝/男裝/女孩/男孩/女嬰/男嬰, 任君選擇! - ...",
+      "id": "111431",
+      "isFree": 0,
+      "location": " GAP 網上商店",
+      "tag": "jetso",
+      "title": "GAP 精選貨品5折"
+    },
+    {
+      "date": "22 Apr - 5 May",
+      "description": "4月22日凌晨0時0分正式開賣 由香港飛 - 曼谷 單程連稅$608起 / 來回連稅$1,161起！ 訂位日期 : 2013...",
+      "id": "111339",
+      "isFree": 0,
+      "location": " 網上",
+      "tag": "travel",
+      "title": "[機票] AirAsia 泰國夏日狂減"
+    },
+    {
+      "date": "29 Mar - 5 May, 10am (9hr)",
+      "description": "海洋公園擁有世界頂尖的動物護理設施及技術，對海洋哺乳類動物的繁殖、研究及治療技術譽...",
+      "id": "106726",
+      "isFree": 0,
+      "location": " 海洋公園 Ocean Park",
+      "tag": "LOHAS",
+      "title": "海洋公園 高清動物月"
+    },
+    {
+      "date": "5 Apr - 18 May (except Sun) 10am (9hr)",
+      "description": "In the making 香港馬凌畫廊（Edouard Malingue Gallery）將於4月5日至5月18日舉行著名土耳其當代藝術家...",
+      "id": "105202",
+      "isFree": 1,
+      "location": " 馬凌畫廊",
+      "tag": "expo",
+      "title": "「ISTHK|HKIST」Nuri Kuzucan首場香港個展"
+    },
+    {
+      "date": "13 Mar - 22 May, 11am (5hr)",
+      "description": "Japanese artist Gekko Numata invites us to enjoy nature beauty through his brushes. By tactfully playing with perspecti...",
+      "id": "104230",
+      "isFree": 1,
+      "location": " MY GALLERY",
+      "tag": "expo",
+      "title": "「Wildlife drama in my gallery」by Gekko Numata"
+    },
+    {
+      "date": "13 Apr - 12 May, 10am (12hr)",
+      "description": "「我們的鄧麗君」 瑰寶珍藏展 展出鄧麗君從未公開的寶麗萊家居照，以及嶺南派畫家單柏欽...",
+      "id": "110808",
+      "isFree": 1,
+      "location": " 山頂廣場 L2",
+      "tag": "expo",
+      "title": "「我們的鄧麗君」 瑰寶珍藏展"
+    },
+    {
+      "date": "25 Apr - 26 May, 10am (11hr 30min)",
+      "description": "中藝全國珠寶展 首飾及工藝正價商品6折，精選貨品低至4折！ 快來全線中藝分店欣賞及選購吧...",
+      "id": "111752",
+      "isFree": 0,
+      "location": " 全線中藝分店",
+      "tag": "expo",
+      "title": "中藝全國珠寶展"
+    },
+    {
+      "date": "21 Mar - 14 May (except Sun) 11am (8hr)",
+      "description": "是次展覽展出的16幅作品，是上海電影的黃金時期中，中國具代表性的著名女演員肖像，懷緬...",
+      "id": "109106",
+      "isFree": 1,
+      "location": " 龍德軒畫廊",
+      "tag": "expo",
+      "title": "「馬嬿泠：上海舊事」藝術展覽"
+    },
+    {
+      "date": "25 Apr - 2 Jun, noon (10hr)",
+      "description": "潮熊Mini Qee 於新世紀廣場出沒，歡迎大人同小朋友一齊嚟L3&amp;L4樓層同佢地影相！推廣期內更精...",
+      "id": "112273",
+      "isFree": 1,
+      "location": " 新世紀廣場 Grand Century Place - L3及L4樓層",
+      "tag": "jetso",
+      "title": "「潮熊彈起」推廣活動"
+    },
+    {
+      "date": "29 Apr - 31 May, 8am (12hr)",
+      "description": "為賀新店開張，現到荷里活商業中心Pacific Coffee分店購買咖瑪素娜可享有買一送一或升級優惠...",
+      "id": "112823",
+      "isFree": 0,
+      "location": " 荷里活商業中心 - Pacific Coffee分店",
+      "tag": "jetso",
+      "title": "Pacific Coffee 買一送一優惠"
+    }
+  ],
+  [
+    {
+      "date": "29 Mar - 1 May, 10am (12hr)",
+      "description": "2003年4月1日香港失去了一位巨星:張國榮。10年過去，他的歌聲和風采一直在香港人的心中。時...",
+      "id": "104961",
+      "isFree": 1,
+      "location": " 時代廣場 Times Square",
+      "tag": "expo",
+      "title": "張國榮繼續寵愛十年紀念展"
+    },
+    {
+      "date": "11 Mar - 3 May (weekdays) 9:30am (9hr)",
+      "description": "潘蔚然, 無題 (雪), 2012, 油彩木板, 120.5 x 120.5 cm 藝術創庫畫廊將為大家呈獻一個由四位來自香...",
+      "id": "98570",
+      "isFree": 1,
+      "location": " 藝術創庫畫廊 (有線電視大樓20樓2009室)",
+      "tag": "arts",
+      "title": "「hidden Track」潘蔚然 時永駿 許劍豪 劉珮瑤聯展"
+    },
+    {
+      "date": "29 Apr - 2 Jun, 10am (12hr)",
+      "description": "初夏必備的basic item -- T恤，不論是圖案Tee、Polo Tee、或是印花Tee，簡單一件，就能塑造百變造...",
+      "id": "113269",
+      "isFree": 0,
+      "location": " 全港 千色Citistore分店",
+      "tag": "jetso",
+      "title": "百搭T恤展@千色店"
+    },
+    {
+      "date": "21 Feb - 4 May (every Tue to Sat) 11am (8hr)",
+      "description": "香港白立方宣佈將會展出Damien Hirst的新作，包括其由2009年開始設計「昆蟲繪畫」系列的櫥櫃及...",
+      "id": "98074",
+      "isFree": 1,
+      "location": " 香港白立方",
+      "tag": "expo",
+      "title": "「昆蟲櫥櫃及繪畫、解剖刀藝術及調色板」展覽"
+    },
+    {
+      "date": "27 Mar - 5 May, 10am (12hr)",
+      "description": "青衣城祝「節」盛會 微型藝術中港台三地聯展 記住帶埋放大鏡，快D去細味一下微型藝術家的...",
+      "id": "107292",
+      "isFree": 1,
+      "location": " 青衣城 Maritime Square",
+      "tag": "expo",
+      "title": "微型藝術展 @青衣城"
+    },
+    {
+      "date": "16 Apr - 8 Jun (except Sun) 10am (9hr)",
+      "description": "千住博「瀑布」2013年作 丙烯酸，螢光顏料，日本和紙 Sundaram Tagore Gallery 將於4月16日至6月9日...",
+      "id": "102822",
+      "isFree": 1,
+      "location": " Sundaram Tagore Gallery",
+      "tag": "expo",
+      "title": "「日之瀑布．夜之瀑布」千住博個人展覽"
+    },
+    {
+      "date": "5 Apr - 19 May, 10am (12hr)",
+      "description": "4月5日至5月19日 1比1原大雕像 1比6人偶系列和最新MARK XLII造型等強勢列陣! Marvel’s Iron Man 3 MARK ...",
+      "id": "107369",
+      "isFree": 1,
+      "location": " 希慎廣場 Hysan Place",
+      "tag": "expo",
+      "title": "「Suit Up At Hysan Place, powered by Hot Toys」展覽"
+    },
+    {
+      "date": "27 Apr - 13 Jul (except Sun) 11am (8hr 30min)",
+      "description": "法國藝術家 Abdelkader Benchamma 將帶來多媒體新展覽，為喬遷至中環荷里活道118號的 agnès b.’s LIB...",
+      "id": "107025",
+      "isFree": 1,
+      "location": " agnès b.’s LIBRAIRIE GALERIE",
+      "tag": "expo",
+      "title": "「ABDELKADER BENCHAMMA, THE INVENTION OF THE CAVE」藝術展覽 法國五月2013"
+    },
+    {
+      "date": "17 Apr - 10 May (24d)",
+      "description": "集郵愛好者注意! 「方寸藏珍：香港郵票發行一百五十周年」郵票展覽現於香港國際機場舉行...",
+      "id": "110602",
+      "isFree": 1,
+      "location": " 香港國際機場 一號客運大樓",
+      "tag": "expo",
+      "title": "「方寸藏珍：香港郵票發行一百五十周年」郵票展覽"
+    },
+    {
+      "date": "27 Mar - 17 Jun (except Tue) 10am (8hr)",
+      "description": "城市印象@尖沙咀這個展覽將帶你走進一個有趣的旅程，回到昨日......經過今日......展示將來的...",
+      "id": "106459",
+      "isFree": 1,
+      "location": " 展城館",
+      "tag": "expo",
+      "title": "「城市印象 @ 尖沙咀」專題展覽"
+    },
+    {
+      "date": "12 Apr - 31 May, 10am (12hr)",
+      "description": "紙張只不過是生活中隨處可見的元素，但是透過配色及視覺規劃，它可以成為跨越平面的一種...",
+      "id": "102143",
+      "isFree": 1,
+      "location": " 海港城 LCX",
+      "tag": "expo",
+      "title": "LCX x Yulia Brodskaya 捲紙藝術展覽"
+    },
+    {
+      "date": "23 Apr - 16 Jun, 11am (11hr)",
+      "description": "Catalog 為尊賞卡會員及恆生信用卡客戶帶嚟更多優惠！ 即日至6月16日，購買2件貨品或以上及單...",
+      "id": "111655",
+      "isFree": 0,
+      "location": " 全港Catalog 各分店",
+      "tag": "jetso",
+      "title": "Catalog 信用卡優惠"
+    },
+    {
+      "date": "10 Apr - 20 Jul (except Tue) 10am (7hr)",
+      "description": "今夏，香港濕地公園會以蝴蝶為主角，為你呈獻「濕地蝶影」主題活動。 除了多種在蝴蝶園翩...",
+      "id": "128482",
+      "isFree": 0,
+      "location": " 香港濕地公園",
+      "tag": "LOHAS",
+      "title": "濕地蝶影2013"
+    },
+    {
+      "date": "21 Mar - 12 May, 10am (12hr)",
+      "description": "國際優越生活品牌K11為專貴顧客帶來中國當代最具吸引力的創作人和藝術家。 藝術一直是K11創...",
+      "id": "103096",
+      "isFree": 1,
+      "location": " K11 購物藝術館",
+      "tag": "expo",
+      "title": "「Fascination | Imagination 」藝術展覽"
+    },
+    {
+      "date": "9 Mar - 1 May, 10am (12hr)",
+      "description": "今個復活節，人氣企鵝Pingu趁著假期忙裡偷閒，與家庭成員及好友來香港旅行，將它最熟悉的...",
+      "id": "103113",
+      "isFree": 1,
+      "location": " The ONE UG2中庭",
+      "tag": "expo",
+      "title": "「The ONE x Pingu冰上奇趣之旅」復活節展覽"
+    },
+    {
+      "date": "15 Apr - 11 May",
+      "description": "新西蘭航空與國泰航空攜手合作，由即日起提供全年每日兩班香港直飛奧克蘭航班。 新西蘭航...",
+      "id": "111533",
+      "isFree": 0,
+      "location": " 網上 / 電話",
+      "tag": "travel",
+      "title": "[機票] 來回奧克蘭$7160up @ Air New Zealand"
+    },
+    {
+      "date": "19 Apr - 16 May",
+      "description": "陳柏宇首部音樂微電影《背拍》, 3個不同劇情對白結局可以於Sony Music HK Facebook內及Sony Music HK Y...",
+      "id": "112881",
+      "isFree": 1,
+      "location": " Sony Music Entertainment Hong Kong Facebook Page",
+      "tag": "jetso",
+      "title": "陳柏宇《背拍》選結局.贏手機 遊戲"
+    },
+    {
+      "date": "24 Apr - 21 May",
+      "description": "去VanGo掃貨 「塵」亦送禮 購物滿指定金額，即可以優惠價換購Dustykid攬枕、雨傘、拖鞋等精美...",
+      "id": "112150",
+      "isFree": 0,
+      "location": " 全港 VanGO分店",
+      "tag": "jetso",
+      "title": "VanGo X Dustykid 換購優惠禮品"
+    },
+    {
+      "date": "31 Mar - 31 May, 11am (11hr)",
+      "description": "K11 Design Store從沒間斷為大眾搜羅啟發新思維的設計和創意人才。今季的焦點落在本地攝影師Qui...",
+      "id": "108320",
+      "isFree": 1,
+      "location": " K11 Design Store (L1)",
+      "tag": "expo",
+      "title": "「The Unforeseen Mile 」攝影展覽"
+    },
+    {
+      "date": "1 Apr - 15 Jun, 11am (9hr)",
+      "description": "“CSI： 犯罪調查體驗展”讓訪客能一嚐扮演極受歡迎的電視劇系列《犯罪現場調查》中的刑事...",
+      "id": "108073",
+      "isFree": 0,
+      "location": " 澳門喜來登金沙城中心酒店 4/F 里海宴會廳",
+      "tag": "expo",
+      "title": "CSI: 犯罪調查體驗展"
+    },
+    {
+      "date": "18 Apr - 14 Jul (except Mon) 10am (9hr)",
+      "description": "象徵傳奇人物拿破崙一世獨一無二的宮廷傢具和裝飾藝術品，首次在法國境外展出，大家可一...",
+      "id": "107098",
+      "isFree": 0,
+      "location": " 澳門藝術博物館",
+      "tag": "expo",
+      "title": "「華麗裝飾: 拿破崙宮廷藝術展 」法國五月2013"
+    },
+    {
+      "date": "14 Mar - 12 May, 10am (12hr)",
+      "description": "潮人最新消費模式 隨著智能手機的普及，QR code亦被廣泛應用。除了一般以QR code為顧客提供實...",
+      "id": "106012",
+      "isFree": 0,
+      "location": " 荃灣廣場",
+      "tag": "jetso",
+      "title": "SOLITON「一嘟筍買」推廣"
+    },
+    {
+      "date": "30 Jan - 13 May (every Mon, Wed to Sat) 10am (8hr)",
+      "description": "女祭祀者雕像 石灰石 約公元前2500年 © 大英博物館托管會 美索不達米亞一詞，原指「（兩條...",
+      "id": "91079",
+      "isFree": 0,
+      "location": " 香港歷史博物館",
+      "tag": "expo",
+      "title": "探本溯源: 美索不達米亞古文明展"
+    },
+    {
+      "date": "6 Apr - 4 May, 10am (8hr)",
+      "description": "2009年，由維園出發，在牛棚結集； 2013年，再次，由藝述研究社，在創新中心，延續… 我夢故...",
+      "id": "95971",
+      "isFree": 1,
+      "location": " Point to Life Bookstore, Showcase Area",
+      "tag": "expo",
+      "title": "「我的DotDotDot」展覽"
+    },
+    {
+      "date": "15 Apr - 15 Jul (weekdays) 10am (8hr)",
+      "description": "香港市民支援愛國民主運動聯合會（支聯會）2011年中成立「六四紀念館」籌委會，籌建臨時「...",
+      "id": "110441",
+      "isFree": 1,
+      "location": " 香港城市大學 學術樓(一) 4/F 黃區 i-café",
+      "tag": "expo",
+      "title": "第二屆臨時「六四紀念館」展覽"
+    },
+    {
+      "date": "1 - 31 May",
+      "description": "鑼鼓喧天、旗海飄揚，香港這個「亞洲國際都會」，5月份將充滿本土傳統節慶的風味。在「香...",
+      "id": "110520",
+      "isFree": 1,
+      "location": " 香港 Hong Kong",
+      "tag": "festival",
+      "title": "香港傳統文化匯 Hong Kong Cultural Celebrations"
+    },
+    {
+      "date": "24 Apr - 22 Jun, 8am (14hr)",
+      "description": "AVA Restaurant Slash Bar 於「法國五月」隆重呈獻由法國攝影師兼平面設計師 Romain Jacquet-Lagrèze 操...",
+      "id": "107002",
+      "isFree": 1,
+      "location": " 隆堡國際麗景酒店",
+      "tag": "expo",
+      "title": "「VERTICAL HORIZON AT AVA」藝術展覽 法國五月2013"
+    },
+    {
+      "date": "1 Mar - 31 May, noon (9hr 30min)",
+      "description": "帝景軒為您設上豪華盛宴，大廚特選矜貴燕窩及生蠔製成多款滋味菜色，讓您品味優質生活。...",
+      "id": "101024",
+      "isFree": 0,
+      "location": " 帝景酒店 2/F",
+      "tag": "f&b",
+      "title": "「蠔」迷盛「燕」自助餐推廣"
+    },
+    {
+      "date": "19 Apr - 30 Jun, 10am (12hr)",
+      "description": "《「蝶 / 誌」藝術展 － 再生蝶系列》: 14/4 - 29/5 創意無限環保藝術 再生蝴蝶活現全新天地 胡...",
+      "id": "110805",
+      "isFree": 1,
+      "location": " 荃新天地 荃新藝廊 (1/F 126號舖)",
+      "tag": "expo",
+      "title": "「蝶 / 誌」藝術展"
+    },
+    {
+      "date": "25 Apr - 31 May",
+      "description": "數百花朵聞光翩翩起舞，會場上，遊人彷似行走於花田間，鬧市中呈現難得的一片和諧景象。 ...",
+      "id": "107014",
+      "isFree": 1,
+      "location": " 合和中心  (戶外)",
+      "tag": "expo",
+      "title": "「ALEXANDRE DANG 的太陽能花之舞」藝術展覽 法國五月2013"
+    }
+  ],
+  [
+    {
+      "date": "27 Apr - 2 Jun",
+      "description": "為進一步推廣社區「普及體育」的文化，體育委員會自2007年起每兩年舉辦一屆全港運動會。全...",
+      "id": "96874",
+      "isFree": 1,
+      "location": " 香港 Hong Kong",
+      "tag": "LOHAS",
+      "title": "第四屆全港運動會"
+    },
+    {
+      "date": "10 Jan - 19 May, 10am (7hr)",
+      "description": "為慶祝香港中文大學成立五十周年，大學圖書館系統與文物館特此合辦「書海驪殊」珍藏展覽...",
+      "id": "91489",
+      "isFree": 1,
+      "location": " 香港中文大學 文物館 展廳",
+      "tag": "expo",
+      "title": "「書海驪珠」香港中文大學圖書館珍藏展"
+    },
+    {
+      "date": "1 Apr - 30 Jun, 10am (11hr)",
+      "description": "是次展覽將展示部份上世紀二十至七十年代間中國錄製的唱片。這批唱片反映了中國的留聲事...",
+      "id": "118293",
+      "isFree": 1,
+      "location": " 香港中央圖書館 藝術資源中心",
+      "tag": "expo",
+      "title": "「樂韻留聲–香港特藏老唱片」展覽"
+    },
+    {
+      "date": "15 Apr - 26 May",
+      "description": "「香港賽馬會社區藝術雙年展2013」開幕禮大合照。 馬會行政總裁應家柏先生及參與「香港賽...",
+      "id": "111323",
+      "isFree": 1,
+      "location": " 薄扶林村",
+      "tag": "expo",
+      "title": "香港賽馬會社區藝術雙年展2013"
+    },
+    {
+      "date": "1 Apr - 16 May",
+      "description": "選舉是公民基本權利，想在未來選舉中享有投票權的合資格市民，可在4月1日起至5月16日的新...",
+      "id": "108126",
+      "isFree": 1,
+      "location": " 香港 Hong Kong",
+      "tag": "LOHAS",
+      "title": "選民登記運動2013"
+    },
+    {
+      "date": "25 Apr - 25 May",
+      "description": "Preview: 3月21日 (星期四) - 4月21日 (星期日) Full exhibition: 4月25日 (星期四) - 5月25日 (星期六) 西伯...",
+      "id": "107085",
+      "isFree": 1,
+      "location": " 星光大道",
+      "tag": "expo",
+      "title": "「高貴．攝影．大師 1909 - 1939」展覽 法國五月2013"
+    },
+    {
+      "date": "23 Mar - 14 Jul, 10am (10hr)",
+      "description": "「風禾盡起──嘉禾的盛世印記」展覽 電影資料館回顧嘉禾叱吒影壇的發展 嘉禾電影公司的...",
+      "id": "114412",
+      "isFree": 1,
+      "location": " 香港電影資料館 展覽廳",
+      "tag": "expo",
+      "title": "「風禾盡起——嘉禾的盛世印記」電影展覽"
+    },
+    {
+      "date": "21 Apr - 20 Jun, 6am (19hr)",
+      "description": "青少年繪畫精英將世界文化帶到港鐵中環站 由4月21日起，當你踏進港鐵中環站「藝術管道」，...",
+      "id": "114676",
+      "isFree": 1,
+      "location": " 港鐵 中環站 J出口 「藝術管道」",
+      "tag": "expo",
+      "title": "「觸躍香江: 香港國際青少年繪畫比賽2012/13」優異作品展"
+    },
+    {
+      "date": "11 Apr - 5 Jun",
+      "description": "有沒有試過在社交行動平台上利用LINE的貼圖傳遞您的心底話同情感 ? OK便利店破天荒與全球過...",
+      "id": "108170",
+      "isFree": 0,
+      "location": " 於指定的OK 便利店換購",
+      "tag": "jetso",
+      "title": "[換領] OK 便利店 X LINE 公仔掛飾"
+    },
+    {
+      "date": "26 Apr - 23 Oct, 10am (8hr)",
+      "description": "海防博物館舉行「抗日英雄──東江縱隊港九獨立大隊」文物展，展出約六十件文物和圖片，...",
+      "id": "112163",
+      "isFree": 0,
+      "location": " 香港海防博物館",
+      "tag": "expo",
+      "title": "「抗日英雄－東江縱隊港九獨立大隊」文物展"
+    },
+    {
+      "date": "10 Apr - 11 Jun",
+      "description": "換領 / 換購 方法 印花派發日期: 4 月 10 日 至 6 月 4 日 換領/換購日期: 4 月 10 日 至 6 月 11 日 1...",
+      "id": "109340",
+      "isFree": 0,
+      "location": " 香港全線7-11 (迪欣湖分店除外)",
+      "tag": "jetso",
+      "title": "[換領] 7-Eleven x Rilakkuma 快樂煮義 輕鬆熊精品"
+    },
+    {
+      "date": "22 Mar - 30 Oct (every Mon to Wed, Fri) 10am (8hr)",
+      "description": "盧輔聖 (1949 – ) 秋水夕陽 1990 水墨設色紙本 「館藏一百」展覽精選一百位由明末至近代畫家...",
+      "id": "91064",
+      "isFree": 0,
+      "location": " 香港藝術館 中國書畫展覽廳",
+      "tag": "arts",
+      "title": "館藏一百- 香港藝術館藏中國繪畫特展"
+    },
+    {
+      "date": "17 Apr - 23 Jun",
+      "description": "「法國五月」藝術節踏入第二十一周年。 精彩的國際級節目： http://www.timable.com/page/french.may ...",
+      "id": "100826",
+      "isFree": 0,
+      "location": " 香港 Hong Kong",
+      "tag": "arts",
+      "title": "法國五月 2013 Le French May"
+    },
+    {
+      "date": "15 Mar - 23 May",
+      "description": "Greenamic®創意環保植物牆 新一代家庭種植好幫手 為您打造至潮家中綠牆 (香港 – 2013年8月30日)...",
+      "id": "43862",
+      "isFree": 0,
+      "location": " 各大屈臣氏、百佳、惠康及各大藥房",
+      "tag": "LOHAS",
+      "title": "Greenamic®創意環保植物牆 為您打造至潮家中綠牆"
+    },
+    {
+      "date": "25 Apr - 14 Jul",
+      "description": "阿根廷裔法國設計師巴勃羅．雷諾索 (Pablo Reinoso) 的雕塑充滿詩意，趣味盎然。今次首度到澳...",
+      "id": "107019",
+      "isFree": 1,
+      "location": " 澳門文華東方酒店",
+      "tag": "expo",
+      "title": "「巴勃羅．雷諾索 - 活雕塑」藝術展覽 法國五月2013"
+    },
+    {
+      "date": "21 Mar - 31 Aug, 10am (12hr)",
+      "description": "Stéphane Couturier 生於法國，定居巴黎生活及創作。1994年，藝術家展出其首個攝影系列《都市考...",
+      "id": "106995",
+      "isFree": 1,
+      "location": " LV旗艦店展覽廊",
+      "tag": "expo",
+      "title": "「變異」藝術展覽 法國五月2013"
+    },
+    {
+      "date": "17 Sep 2012 - 17 Jun 2013 (every Mon, Wed to Fri) 10am (8hr)",
+      "description": "歐豪年是嶺南畫派第三代的中堅人物，並且早負盛名。他於1935年出生於廣東西南的茂名縣博鋪...",
+      "id": "70120",
+      "isFree": 0,
+      "location": " 香港文化博物館 專題展覽館三&四",
+      "tag": "arts",
+      "title": "「萬象逍遙」歐豪年書畫展"
+    },
+    {
+      "date": "3 Jan - 30 Jun, 7:30am (13hr 30min)",
+      "description": "由即日起至6月30日到Shambala分店出示優惠券買咖瑪素娜手調飲品就可以享有買一送一優惠或者...",
+      "id": "89759",
+      "isFree": 0,
+      "location": " Shambala Pacific Coffee",
+      "tag": "f&b",
+      "title": "Pacific Coffee買一送一優惠"
+    },
+    {
+      "date": "18 Apr 2012 - 26 Aug 2013 (every Mon, Wed to Sat) 10am (8hr)",
+      "description": "&lt;巫峽飛雪&gt; 高奇峰 1916年 &lt;桂林山水&gt; 趙少昂 1945年 高奇峰是嶺南畫派的始創人之一。他雖天賦...",
+      "id": "40573",
+      "isFree": 0,
+      "location": " 香港文化博物館 趙少昂藝術館",
+      "tag": "expo",
+      "title": "「天風舊夢」奇峰師徒作品展"
+    },
+    {
+      "date": "12 Apr - 30 Nov, 8am (15hr)",
+      "description": "「我們總希望看到一個更廣闊和遼遠的天空，但看得見與否，視乎心境與觀點。風箏作品以裝...",
+      "id": "111741",
+      "isFree": 1,
+      "location": " 香港藝術中心 賽馬會藝廊",
+      "tag": "expo",
+      "title": "「SimKites」藝術展覽"
+    },
+    {
+      "date": "30 Apr - 25 Sep",
+      "description": "一人優惠票： 香港飛東京(成田) / 大阪 $2500 up 香港飛名古屋 $2200 up *一人優惠票只發售至7/5/201...",
+      "id": "112949",
+      "isFree": 0,
+      "location": " 網上",
+      "tag": "travel",
+      "title": "[機票] ANA香港飛東京 $2200up"
+    },
+    {
+      "date": "31 Dec 2012 - 30 Jun 2013, 5:30am (20hr)",
+      "description": "同日每第二程車費9折 2012年12月31日至2013年6月30日期間，乘客持八達通付費乘搭港鐵、輕鐵或...",
+      "id": "89010",
+      "isFree": 1,
+      "location": " 港鐵、輕鐵或港鐵巴士全線",
+      "tag": "jetso",
+      "title": "港鐵「即日第二程九折」優惠"
+    },
+    {
+      "date": "1 Feb 2013 - 31 Jan 2014, 10am (12hr)",
+      "description": "踏入新一年，香港杜莎夫人蠟像館為本地賓客帶來更多歡樂，將生日驚喜優惠期延長一年。凡...",
+      "id": "94470",
+      "isFree": 1,
+      "location": " 香港杜莎夫人蠟像館",
+      "tag": "jetso",
+      "title": "香港杜莎夫人蠟像館「生日之星」免費入場優惠"
+    },
+    {
+      "date": "1 Jan - 30 Sep, 6am (19hr)",
+      "description": "Visa Infinite及Visa Signature持卡人可以優惠價錢，輕鬆享受商務旅程及旅遊假期。由2013年1月1日至9...",
+      "id": "90032",
+      "isFree": 0,
+      "location": " 香港 Hong Kong",
+      "tag": "jetso",
+      "title": "港鐵機場快綫車票買一送一優惠"
+    },
+    {
+      "date": "1 Jan - 31 Aug (243d)",
+      "description": "華航旅客尊享「旅行台灣 3次贈1張機票」大禮遇！ 為慶祝港澳赴台觀光人次突破百萬，華航與...",
+      "id": "131499",
+      "isFree": 1,
+      "location": " 台灣觀光協會香港辦事處",
+      "tag": "travel",
+      "title": "[機票] 中華航空「旅行台灣 三送一」優惠"
+    },
+    {
+      "date": "23 Apr - 31 Dec",
+      "description": "「家是香港」是全港的公衆參與運動，目的是為香港注入正能量，加強社會的凝聚力，推廣關...",
+      "id": "111772",
+      "isFree": 1,
+      "location": " 全港",
+      "tag": "LOHAS",
+      "title": "「家是香港」全港公眾活動"
+    },
+    {
+      "date": "12 Jul 2012 - 12 Jul 2013",
+      "description": "大嶼山環島遊由昂坪360出發 大嶼山擁有豐富多彩的面貌，你又發掘了多少? 昂坪360推出全新「3...",
+      "id": "43184",
+      "isFree": 0,
+      "location": " 昂坪360",
+      "tag": "travel",
+      "title": "「360海陸空全日通」通行証 @昂坪360"
+    },
+    {
+      "date": "15 Nov 2012 - 15 Nov 2013",
+      "description": "中環街市將進行保育和活化，改善中區的空氣質素，在鬧市中創造一個難得的休閒點，成為上...",
+      "id": "74217",
+      "isFree": 1,
+      "location": " 中環「綠洲藝廊」(舊中環街市)",
+      "tag": "expo",
+      "title": "「漫」遊中環 Comics@Central"
+    },
+    {
+      "date": "1 Jan 2012 - 14 Jun 2013",
+      "description": "於數碼港使用電動車充電服務,可享3小時免費泊車優惠...",
+      "id": "46281",
+      "isFree": 1,
+      "location": " 數碼港商場 The Arcade, Cyberport",
+      "tag": "jetso",
+      "title": "數碼港商場免費充電及泊車"
+    }
+  ]
+]
