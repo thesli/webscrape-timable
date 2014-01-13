@@ -16,4 +16,4 @@ app.get "/event/:id?",(req,res)->
 				break
 		res.send error: "event not found with id #{id}" if not valid
 
-app.listen 5050
+app.listen 80
