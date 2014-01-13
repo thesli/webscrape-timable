@@ -16,17 +16,18 @@
     var id;
     id = req.params.id || req.query.id;
     return fs.readFile('./json/ALL.json', 'utf-8', function(err, data) {
-      var event, events, valid, _i, _len;
+      var event, events, invalid, _i, _len;
       events = JSON.parse(data);
-      valid = false;
+      invalid = true;
       for (_i = 0, _len = events.length; _i < _len; _i++) {
         event = events[_i];
         if (event.id === id) {
+          invalid = false;
           res.send(event);
           break;
         }
       }
-      if (!valid) {
+      if (invalid) {
         return res.send({
           error: "event not found with id " + id
         });

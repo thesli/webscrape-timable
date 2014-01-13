@@ -6,8 +6,7 @@ app.use "/img",express.static __dirname + "/img"
 app.use express.bodyParser()
 
 app.get "/event/:id?",(req,res)->
-	id = req.params.id || req.query.id
-	console.log req.params.id
+	id = req.params.id || req.query.id	
 	fs.readFile './json/ALL.json','utf-8',(err,data)->		
 		events = JSON.parse(data)
 		invalid = true
@@ -16,7 +15,7 @@ app.get "/event/:id?",(req,res)->
 				invalid = false
 				res.send event
 				break
-		# res.send error: "event not found with id #{id}" if invalid
+		res.send error: "event not found with id #{id}" if invalid
 
 app.get "/event_img/:id",(req,res)->	
 	res.sendfile __dirname+"/img/#{req.params.id}.jpg"
