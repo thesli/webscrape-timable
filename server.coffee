@@ -7,6 +7,7 @@ app.use express.bodyParser()
 
 app.get "/event/:id?",(req,res)->
 	id = req.params.id || req.query.id
+	console.log req.params.id
 	fs.readFile './json/ALL.json','utf-8',(err,data)->		
 		events = JSON.parse(data)
 		valid = false
