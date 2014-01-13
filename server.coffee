@@ -16,4 +16,10 @@ app.get "/event/:id?",(req,res)->
 				break
 		res.send error: "event not found with id #{id}" if not valid
 
-app.listen 80
+app.get "/event_img/:id",(req,res)->	
+	res.sendfile __dirname+"/img/#{req.params.id}.jpg"
+
+port = process.env.PORT || 80
+
+app.listen port,->
+	console.log "listening on port #{port}"
