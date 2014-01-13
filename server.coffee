@@ -10,12 +10,13 @@ app.get "/event/:id?",(req,res)->
 	console.log req.params.id
 	fs.readFile './json/ALL.json','utf-8',(err,data)->		
 		events = JSON.parse(data)
-		valid = false
+		invalid = true
 		for event in events
 			if event.id == id
+				invalid = false
 				res.send event
 				break
-		res.send error: "event not found with id #{id}" if not valid
+		res.send error: "event not found with id #{id}" if invalid
 
 app.get "/event_img/:id",(req,res)->	
 	res.sendfile __dirname+"/img/#{req.params.id}.jpg"
